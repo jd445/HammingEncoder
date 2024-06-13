@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: HammingEncoder
+Version: 0.1.0
+Summary: A Hamming Encoder package
+Home-page: https://github.com/jd445/HammingEncoder
+Author: Junjie Dong
+Author-email: jd445@qq.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Dist: numpy
+Requires-Dist: torch
+Requires-Dist: scikit-learn
+Requires-Dist: pandas
+Requires-Dist: tqdm

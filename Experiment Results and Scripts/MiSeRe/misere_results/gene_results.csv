@@ -1,0 +1,6 @@
+,mean,std
+RandomForest,1.0,0.0
+SVM,1.0,0.0
+NaiveBayes,1.0,0.0
+KNN,1.0,0.0
+DecisionTree,0.9998979591836734,0.00021779334140928898

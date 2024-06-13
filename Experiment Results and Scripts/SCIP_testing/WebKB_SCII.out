@@ -1,0 +1,214 @@
+The size of class 1 is: 1641
+The size of class 2 is: 1124
+The size of class 3 is: 930
+The number of items: 7737
+Average length of a sequence: 128.39513
+--Running both SCII_MATCH and SCII_CBA method--
+The number of all items: 7737
+The number of data objects: 3695
+Interestingness threshold of class1: 0.02      Frequency threshold1: 0.05
+Interestingness threshold of class2: 0.02      Frequency threshold2: 0.05
+Interestingness threshold of class3: 0.02      Frequency threshold3: 0.05
+topk for match: 11   Interesting itemset size:1~2    Confidence threshold:0.5
+ NO. of patterns of class0: 2327   NO. of rules of class0: 143
+ NO. of patterns of class1: 6812   NO. of rules of class1: 183
+ NO. of patterns of class2: 8681   NO. of rules of class2: 177
+NO. of all rules: 503  Size of classifier(MATCH): 195  Size of CBA: 0
+Accuracy_CBA 0:88.88888888888889   Accuracy_MATCH ( topk11)0:88.07588075880759
+ NO. of patterns of class0: 2339   NO. of rules of class0: 139
+ NO. of patterns of class1: 6454   NO. of rules of class1: 174
+ NO. of patterns of class2: 8710   NO. of rules of class2: 187
+NO. of all rules: 500  Size of classifier(MATCH): 198  Size of CBA: 0
+Accuracy_CBA 1:91.59891598915989   Accuracy_MATCH ( topk11)1:91.869918699187
+ NO. of patterns of class0: 2251   NO. of rules of class0: 132
+ NO. of patterns of class1: 6835   NO. of rules of class1: 198
+ NO. of patterns of class2: 8987   NO. of rules of class2: 183
+NO. of all rules: 513  Size of classifier(MATCH): 198  Size of CBA: 0
+Accuracy_CBA 2:88.6178861788618   Accuracy_MATCH ( topk11)2:88.88888888888889
+ NO. of patterns of class0: 2281   NO. of rules of class0: 134
+ NO. of patterns of class1: 6897   NO. of rules of class1: 195
+ NO. of patterns of class2: 8993   NO. of rules of class2: 174
+NO. of all rules: 503  Size of classifier(MATCH): 201  Size of CBA: 0
+Accuracy_CBA 3:88.88888888888889   Accuracy_MATCH ( topk11)3:89.97289972899729
+ NO. of patterns of class0: 2290   NO. of rules of class0: 135
+ NO. of patterns of class1: 6496   NO. of rules of class1: 163
+ NO. of patterns of class2: 8328   NO. of rules of class2: 181
+NO. of all rules: 479  Size of classifier(MATCH): 192  Size of CBA: 0
+Accuracy_CBA 4:87.26287262872629   Accuracy_MATCH ( topk11)4:87.8048780487805
+ NO. of patterns of class0: 2323   NO. of rules of class0: 132
+ NO. of patterns of class1: 6674   NO. of rules of class1: 199
+ NO. of patterns of class2: 8947   NO. of rules of class2: 177
+NO. of all rules: 508  Size of classifier(MATCH): 201  Size of CBA: 0
+Accuracy_CBA 5:92.41192411924119   Accuracy_MATCH ( topk11)5:91.0569105691057
+ NO. of patterns of class0: 2334   NO. of rules of class0: 141
+ NO. of patterns of class1: 6501   NO. of rules of class1: 183
+ NO. of patterns of class2: 8445   NO. of rules of class2: 179
+NO. of all rules: 503  Size of classifier(MATCH): 200  Size of CBA: 0
+Accuracy_CBA 6:90.78590785907859   Accuracy_MATCH ( topk11)6:90.2439024390244
+ NO. of patterns of class0: 2252   NO. of rules of class0: 130
+ NO. of patterns of class1: 6264   NO. of rules of class1: 190
+ NO. of patterns of class2: 8220   NO. of rules of class2: 178
+NO. of all rules: 498  Size of classifier(MATCH): 197  Size of CBA: 0
+Accuracy_CBA 7:89.70189701897019   Accuracy_MATCH ( topk11)7:89.97289972899729
+ NO. of patterns of class0: 2301   NO. of rules of class0: 131
+ NO. of patterns of class1: 6599   NO. of rules of class1: 193
+ NO. of patterns of class2: 8667   NO. of rules of class2: 182
+NO. of all rules: 506  Size of classifier(MATCH): 206  Size of CBA: 0
+Accuracy_CBA 8:89.15989159891599   Accuracy_MATCH ( topk11)8:90.51490514905149
+ NO. of patterns of class0: 2298   NO. of rules of class0: 128
+ NO. of patterns of class1: 6432   NO. of rules of class1: 192
+ NO. of patterns of class2: 8375   NO. of rules of class2: 184
+NO. of all rules: 504  Size of classifier(MATCH): 196  Size of CBA: 0
+Accuracy_CBA 9:93.85026737967914   Accuracy_MATCH ( topk11)9:94.6524064171123
+Average accuracy of 10 fold cross validation(HAR):90.1167340550411%
+Average accuracy of 10 fold cross validation(MATCH):90.30534904279524%
+Average number of frequent pattern:17531.3
+Average Number of rules:501.7    Average size of Classifiers:198.4
+Runtime:8.409s   or  0m 8s 409 ms
+-------------------------------- end ------------------------------------
+
+The size of class 1 is: 1641
+The size of class 2 is: 1124
+The size of class 3 is: 930
+The number of items: 7737
+Average length of a sequence: 128.39513
+--Running both SCII_MATCH and SCII_CBA method--
+The number of all items: 7737
+The number of data objects: 3695
+Interestingness threshold of class1: 0.02      Frequency threshold1: 0.05
+Interestingness threshold of class2: 0.02      Frequency threshold2: 0.05
+Interestingness threshold of class3: 0.02      Frequency threshold3: 0.05
+topk for match: 11   Interesting itemset size:1~3    Confidence threshold:0.5
+ NO. of patterns of class0: 2327   NO. of rules of class0: 242
+ NO. of patterns of class1: 6812   NO. of rules of class1: 295
+ NO. of patterns of class2: 8681   NO. of rules of class2: 195
+NO. of all rules: 732  Size of classifier(MATCH): 228  Size of CBA: 0
+Accuracy_CBA 0:89.15989159891599   Accuracy_MATCH ( topk11)0:88.07588075880759
+ NO. of patterns of class0: 2339   NO. of rules of class0: 237
+ NO. of patterns of class1: 6454   NO. of rules of class1: 280
+ NO. of patterns of class2: 8710   NO. of rules of class2: 207
+NO. of all rules: 724  Size of classifier(MATCH): 236  Size of CBA: 0
+Accuracy_CBA 1:91.59891598915989   Accuracy_MATCH ( topk11)1:90.2439024390244
+ NO. of patterns of class0: 2251   NO. of rules of class0: 228
+ NO. of patterns of class1: 6835   NO. of rules of class1: 327
+ NO. of patterns of class2: 8987   NO. of rules of class2: 198
+NO. of all rules: 753  Size of classifier(MATCH): 234  Size of CBA: 0
+Accuracy_CBA 2:86.99186991869918   Accuracy_MATCH ( topk11)2:90.78590785907859
+ NO. of patterns of class0: 2281   NO. of rules of class0: 226
+ NO. of patterns of class1: 6897   NO. of rules of class1: 320
+ NO. of patterns of class2: 8993   NO. of rules of class2: 193
+NO. of all rules: 739  Size of classifier(MATCH): 238  Size of CBA: 0
+Accuracy_CBA 3:89.4308943089431   Accuracy_MATCH ( topk11)3:90.51490514905149
+ NO. of patterns of class0: 2290   NO. of rules of class0: 232
+ NO. of patterns of class1: 6496   NO. of rules of class1: 272
+ NO. of patterns of class2: 8328   NO. of rules of class2: 198
+NO. of all rules: 702  Size of classifier(MATCH): 232  Size of CBA: 0
+Accuracy_CBA 4:87.8048780487805   Accuracy_MATCH ( topk11)4:87.8048780487805
+ NO. of patterns of class0: 2323   NO. of rules of class0: 228
+ NO. of patterns of class1: 6674   NO. of rules of class1: 326
+ NO. of patterns of class2: 8947   NO. of rules of class2: 194
+NO. of all rules: 748  Size of classifier(MATCH): 237  Size of CBA: 0
+Accuracy_CBA 5:91.59891598915989   Accuracy_MATCH ( topk11)5:91.869918699187
+ NO. of patterns of class0: 2334   NO. of rules of class0: 242
+ NO. of patterns of class1: 6501   NO. of rules of class1: 297
+ NO. of patterns of class2: 8445   NO. of rules of class2: 195
+NO. of all rules: 734  Size of classifier(MATCH): 236  Size of CBA: 0
+Accuracy_CBA 6:88.34688346883469   Accuracy_MATCH ( topk11)6:89.4308943089431
+ NO. of patterns of class0: 2252   NO. of rules of class0: 221
+ NO. of patterns of class1: 6264   NO. of rules of class1: 308
+ NO. of patterns of class2: 8220   NO. of rules of class2: 195
+NO. of all rules: 724  Size of classifier(MATCH): 235  Size of CBA: 0
+Accuracy_CBA 7:88.34688346883469   Accuracy_MATCH ( topk11)7:91.32791327913279
+ NO. of patterns of class0: 2301   NO. of rules of class0: 217
+ NO. of patterns of class1: 6599   NO. of rules of class1: 335
+ NO. of patterns of class2: 8667   NO. of rules of class2: 201
+NO. of all rules: 753  Size of classifier(MATCH): 239  Size of CBA: 0
+Accuracy_CBA 8:87.53387533875339   Accuracy_MATCH ( topk11)8:91.869918699187
+ NO. of patterns of class0: 2298   NO. of rules of class0: 215
+ NO. of patterns of class1: 6432   NO. of rules of class1: 302
+ NO. of patterns of class2: 8375   NO. of rules of class2: 200
+NO. of all rules: 717  Size of classifier(MATCH): 228  Size of CBA: 0
+Accuracy_CBA 9:91.44385026737967   Accuracy_MATCH ( topk11)9:94.91978609625669
+Average accuracy of 10 fold cross validation(HAR):89.22568583974609%
+Average accuracy of 10 fold cross validation(MATCH):90.68439053374492%
+Average number of frequent pattern:17531.3
+Average Number of rules:732.6    Average size of Classifiers:234.3
+Runtime:34.211s   or  0m 34s 211 ms
+-------------------------------- end ------------------------------------
+
+The size of class 1 is: 1641
+The size of class 2 is: 1124
+The size of class 3 is: 930
+The number of items: 7737
+Average length of a sequence: 128.39513
+--Running both SCII_MATCH and SCII_CBA method--
+The number of all items: 7737
+The number of data objects: 3695
+Interestingness threshold of class1: 0.02      Frequency threshold1: 0.05
+Interestingness threshold of class2: 0.02      Frequency threshold2: 0.05
+Interestingness threshold of class3: 0.02      Frequency threshold3: 0.05
+topk for match: 11   Interesting itemset size:1~4    Confidence threshold:0.5
+ NO. of patterns of class0: 2327   NO. of rules of class0: 348
+ NO. of patterns of class1: 6812   NO. of rules of class1: 423
+ NO. of patterns of class2: 8681   NO. of rules of class2: 201
+NO. of all rules: 972  Size of classifier(MATCH): 250  Size of CBA: 0
+Accuracy_CBA 0:88.88888888888889   Accuracy_MATCH ( topk11)0:88.88888888888889
+ NO. of patterns of class0: 2339   NO. of rules of class0: 339
+ NO. of patterns of class1: 6454   NO. of rules of class1: 408
+ NO. of patterns of class2: 8710   NO. of rules of class2: 213
+NO. of all rules: 960  Size of classifier(MATCH): 259  Size of CBA: 0
+Accuracy_CBA 1:91.32791327913279   Accuracy_MATCH ( topk11)1:89.97289972899729
+ NO. of patterns of class0: 2251   NO. of rules of class0: 330
+ NO. of patterns of class1: 6835   NO. of rules of class1: 468
+ NO. of patterns of class2: 8987   NO. of rules of class2: 203
+NO. of all rules: 1001  Size of classifier(MATCH): 252  Size of CBA: 0
+Accuracy_CBA 2:87.26287262872629   Accuracy_MATCH ( topk11)2:90.51490514905149
+ NO. of patterns of class0: 2281   NO. of rules of class0: 321
+ NO. of patterns of class1: 6897   NO. of rules of class1: 458
+ NO. of patterns of class2: 8993   NO. of rules of class2: 199
+NO. of all rules: 978  Size of classifier(MATCH): 256  Size of CBA: 0
+Accuracy_CBA 3:89.15989159891599   Accuracy_MATCH ( topk11)3:90.2439024390244
+ NO. of patterns of class0: 2290   NO. of rules of class0: 339
+ NO. of patterns of class1: 6496   NO. of rules of class1: 399
+ NO. of patterns of class2: 8328   NO. of rules of class2: 202
+NO. of all rules: 940  Size of classifier(MATCH): 257  Size of CBA: 0
+Accuracy_CBA 4:87.8048780487805   Accuracy_MATCH ( topk11)4:87.26287262872629
+ NO. of patterns of class0: 2323   NO. of rules of class0: 328
+ NO. of patterns of class1: 6674   NO. of rules of class1: 466
+ NO. of patterns of class2: 8947   NO. of rules of class2: 198
+NO. of all rules: 992  Size of classifier(MATCH): 259  Size of CBA: 0
+Accuracy_CBA 5:91.32791327913279   Accuracy_MATCH ( topk11)5:91.869918699187
+ NO. of patterns of class0: 2334   NO. of rules of class0: 349
+ NO. of patterns of class1: 6501   NO. of rules of class1: 424
+ NO. of patterns of class2: 8445   NO. of rules of class2: 200
+NO. of all rules: 973  Size of classifier(MATCH): 255  Size of CBA: 0
+Accuracy_CBA 6:88.07588075880759   Accuracy_MATCH ( topk11)6:89.4308943089431
+ NO. of patterns of class0: 2252   NO. of rules of class0: 320
+ NO. of patterns of class1: 6264   NO. of rules of class1: 440
+ NO. of patterns of class2: 8220   NO. of rules of class2: 202
+NO. of all rules: 962  Size of classifier(MATCH): 258  Size of CBA: 0
+Accuracy_CBA 7:88.34688346883469   Accuracy_MATCH ( topk11)7:90.78590785907859
+ NO. of patterns of class0: 2301   NO. of rules of class0: 312
+ NO. of patterns of class1: 6599   NO. of rules of class1: 514
+ NO. of patterns of class2: 8667   NO. of rules of class2: 207
+NO. of all rules: 1033  Size of classifier(MATCH): 259  Size of CBA: 0
+Accuracy_CBA 8:87.53387533875339   Accuracy_MATCH ( topk11)8:91.869918699187
+ NO. of patterns of class0: 2298   NO. of rules of class0: 319
+ NO. of patterns of class1: 6432   NO. of rules of class1: 427
+ NO. of patterns of class2: 8375   NO. of rules of class2: 206
+NO. of all rules: 952  Size of classifier(MATCH): 250  Size of CBA: 0
+Accuracy_CBA 9:91.44385026737967   Accuracy_MATCH ( topk11)9:94.38502673796792
+Average accuracy of 10 fold cross validation(HAR):89.11728475573526%
+Average accuracy of 10 fold cross validation(MATCH):90.52251351390521%
+Average number of frequent pattern:17531.3
+Average Number of rules:976.3    Average size of Classifiers:255.5
+Runtime:110.275s   or  1m 50s 275 ms
+-------------------------------- end ------------------------------------
+
+The size of class 1 is: 1641
+The size of class 2 is: 1124
+The size of class 3 is: 930
+The number of items: 7737
+Average length of a sequence: 128.39513
+The number of data objects: 3695
+Interestingness threshold of class1: 0.02

@@ -1,0 +1,540 @@
+The number of items: 6
+The size of data: 2942
+Max length of sequencial patterns:3
+SCIS         Frequency threshold: 0.05
+Interestingness threshold: 0.02
+--Running both SCIS_MATCH and SCIS_HAR method--
+topk for match: 11
+size of class 0: 1315    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1333    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 0:100.0   Accuracy_MATCH ( topk11)0:100.0
+size of class 0: 1300    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1348    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 1:100.0   Accuracy_MATCH ( topk11)1:100.0
+size of class 0: 1304    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1344    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 2:100.0   Accuracy_MATCH ( topk11)2:100.0
+size of class 0: 1297    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1351    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 3:100.0   Accuracy_MATCH ( topk11)3:100.0
+size of class 0: 1297    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1351    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 4:100.0   Accuracy_MATCH ( topk11)4:100.0
+size of class 0: 1293    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1355    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 5:100.0   Accuracy_MATCH ( topk11)5:100.0
+size of class 0: 1298    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1350    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 6:100.0   Accuracy_MATCH ( topk11)6:100.0
+size of class 0: 1302    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1346    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 7:100.0   Accuracy_MATCH ( topk11)7:100.0
+size of class 0: 1295    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1353    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 8:100.0   Accuracy_MATCH ( topk11)8:100.0
+size of class 0: 1313    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1333    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 9:100.0   Accuracy_MATCH ( topk11)9:100.0
+Average accuracy of 10 fold cross validation(HAR):100.0%
+Average accuracy of 10 fold cross validation(MATCH):100.0%
+Average number of frequent pattern:168.0
+Average Number of rules:168.0    Average size of Classifiers:7.0
+Runtime:10.624s 
+-------------------------------- end ------------------------------------
+
+The number of items: 6
+The size of data: 2942
+Max length of sequencial patterns:3
+SCIS         Frequency threshold: 0.05
+Interestingness threshold: 0.02
+--Running both SCIS_MATCH and SCIS_HAR method--
+topk for match: 11
+size of class 0: 1315    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1333    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 0:100.0   Accuracy_MATCH ( topk11)0:100.0
+size of class 0: 1300    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1348    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 1:100.0   Accuracy_MATCH ( topk11)1:100.0
+size of class 0: 1304    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1344    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 2:100.0   Accuracy_MATCH ( topk11)2:100.0
+size of class 0: 1297    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1351    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 3:100.0   Accuracy_MATCH ( topk11)3:100.0
+size of class 0: 1297    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1351    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 4:100.0   Accuracy_MATCH ( topk11)4:100.0
+size of class 0: 1293    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1355    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 5:100.0   Accuracy_MATCH ( topk11)5:100.0
+size of class 0: 1298    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1350    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 6:100.0   Accuracy_MATCH ( topk11)6:100.0
+size of class 0: 1302    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1346    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 7:100.0   Accuracy_MATCH ( topk11)7:100.0
+size of class 0: 1295    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1353    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 8:100.0   Accuracy_MATCH ( topk11)8:100.0
+size of class 0: 1313    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1333    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 9:100.0   Accuracy_MATCH ( topk11)9:100.0
+Average accuracy of 10 fold cross validation(HAR):100.0%
+Average accuracy of 10 fold cross validation(MATCH):100.0%
+Average number of frequent pattern:168.0
+Average Number of rules:168.0    Average size of Classifiers:7.0
+Runtime:10.326s 
+-------------------------------- end ------------------------------------
+
+The number of items: 6
+The size of data: 2942
+Max length of sequencial patterns:3
+SCIS         Frequency threshold: 0.05
+Interestingness threshold: 0.02
+--Running both SCIS_MATCH and SCIS_HAR method--
+topk for match: 11
+size of class 0: 1315    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1333    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 0:100.0   Accuracy_MATCH ( topk11)0:100.0
+size of class 0: 1300    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1348    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 1:100.0   Accuracy_MATCH ( topk11)1:100.0
+size of class 0: 1304    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1344    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 2:100.0   Accuracy_MATCH ( topk11)2:100.0
+size of class 0: 1297    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1351    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 3:100.0   Accuracy_MATCH ( topk11)3:100.0
+size of class 0: 1297    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1351    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 4:100.0   Accuracy_MATCH ( topk11)4:100.0
+size of class 0: 1293    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1355    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 5:100.0   Accuracy_MATCH ( topk11)5:100.0
+size of class 0: 1298    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1350    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 6:100.0   Accuracy_MATCH ( topk11)6:100.0
+size of class 0: 1302    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1346    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 7:100.0   Accuracy_MATCH ( topk11)7:100.0
+size of class 0: 1295    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1353    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 8:100.0   Accuracy_MATCH ( topk11)8:100.0
+size of class 0: 1313    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1333    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 9:100.0   Accuracy_MATCH ( topk11)9:100.0
+Average accuracy of 10 fold cross validation(HAR):100.0%
+Average accuracy of 10 fold cross validation(MATCH):100.0%
+Average number of frequent pattern:168.0
+Average Number of rules:168.0    Average size of Classifiers:7.0
+Runtime:10.42s 
+-------------------------------- end ------------------------------------
+
+The number of items: 6
+The size of data: 2942
+Max length of sequencial patterns:3
+SCIS         Frequency threshold: 0.05
+Interestingness threshold: 0.02
+--Running both SCIS_MATCH and SCIS_HAR method--
+topk for match: 11
+size of class 0: 1315    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1333    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 0:100.0   Accuracy_MATCH ( topk11)0:100.0
+size of class 0: 1300    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1348    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 1:100.0   Accuracy_MATCH ( topk11)1:100.0
+size of class 0: 1304    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1344    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 2:100.0   Accuracy_MATCH ( topk11)2:100.0
+size of class 0: 1297    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1351    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 3:100.0   Accuracy_MATCH ( topk11)3:100.0
+size of class 0: 1297    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1351    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 4:100.0   Accuracy_MATCH ( topk11)4:100.0
+size of class 0: 1293    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1355    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 5:100.0   Accuracy_MATCH ( topk11)5:100.0
+size of class 0: 1298    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1350    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 6:100.0   Accuracy_MATCH ( topk11)6:100.0
+size of class 0: 1302    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1346    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 7:100.0   Accuracy_MATCH ( topk11)7:100.0
+size of class 0: 1295    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1353    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 8:100.0   Accuracy_MATCH ( topk11)8:100.0
+size of class 0: 1313    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1333    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 9:100.0   Accuracy_MATCH ( topk11)9:100.0
+Average accuracy of 10 fold cross validation(HAR):100.0%
+Average accuracy of 10 fold cross validation(MATCH):100.0%
+Average number of frequent pattern:168.0
+Average Number of rules:168.0    Average size of Classifiers:7.0
+Runtime:10.631s 
+-------------------------------- end ------------------------------------
+
+The number of items: 6
+The size of data: 2942
+Max length of sequencial patterns:3
+SCIS         Frequency threshold: 0.05
+Interestingness threshold: 0.02
+--Running both SCIS_MATCH and SCIS_HAR method--
+topk for match: 11
+size of class 0: 1315    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1333    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 0:100.0   Accuracy_MATCH ( topk11)0:100.0
+size of class 0: 1300    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1348    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 1:100.0   Accuracy_MATCH ( topk11)1:100.0
+size of class 0: 1304    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1344    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 2:100.0   Accuracy_MATCH ( topk11)2:100.0
+size of class 0: 1297    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1351    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 3:100.0   Accuracy_MATCH ( topk11)3:100.0
+size of class 0: 1297    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1351    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 4:100.0   Accuracy_MATCH ( topk11)4:100.0
+size of class 0: 1293    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1355    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 5:100.0   Accuracy_MATCH ( topk11)5:100.0
+size of class 0: 1298    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1350    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 6:100.0   Accuracy_MATCH ( topk11)6:100.0
+size of class 0: 1302    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1346    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 7:100.0   Accuracy_MATCH ( topk11)7:100.0
+size of class 0: 1295    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1353    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 8:100.0   Accuracy_MATCH ( topk11)8:100.0
+size of class 0: 1313    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1333    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 9:100.0   Accuracy_MATCH ( topk11)9:100.0
+Average accuracy of 10 fold cross validation(HAR):100.0%
+Average accuracy of 10 fold cross validation(MATCH):100.0%
+Average number of frequent pattern:168.0
+Average Number of rules:168.0    Average size of Classifiers:7.0
+Runtime:10.381s 
+-------------------------------- end ------------------------------------
+
+The number of items: 6
+The size of data: 2942
+Max length of sequencial patterns:3
+SCIS         Frequency threshold: 0.05
+Interestingness threshold: 0.02
+--Running both SCIS_MATCH and SCIS_HAR method--
+topk for match: 11
+size of class 0: 1315    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1333    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 0:100.0   Accuracy_MATCH ( topk11)0:100.0
+size of class 0: 1300    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1348    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 1:100.0   Accuracy_MATCH ( topk11)1:100.0
+size of class 0: 1304    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1344    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 2:100.0   Accuracy_MATCH ( topk11)2:100.0
+size of class 0: 1297    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1351    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 3:100.0   Accuracy_MATCH ( topk11)3:100.0
+size of class 0: 1297    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1351    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 4:100.0   Accuracy_MATCH ( topk11)4:100.0
+size of class 0: 1293    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1355    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 5:100.0   Accuracy_MATCH ( topk11)5:100.0
+size of class 0: 1298    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1350    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 6:100.0   Accuracy_MATCH ( topk11)6:100.0
+size of class 0: 1302    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1346    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 7:100.0   Accuracy_MATCH ( topk11)7:100.0
+size of class 0: 1295    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1353    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 8:100.0   Accuracy_MATCH ( topk11)8:100.0
+size of class 0: 1313    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1333    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 9:100.0   Accuracy_MATCH ( topk11)9:100.0
+Average accuracy of 10 fold cross validation(HAR):100.0%
+Average accuracy of 10 fold cross validation(MATCH):100.0%
+Average number of frequent pattern:168.0
+Average Number of rules:168.0    Average size of Classifiers:7.0
+Runtime:10.496s 
+-------------------------------- end ------------------------------------
+
+The number of items: 6
+The size of data: 2942
+Max length of sequencial patterns:3
+SCIS         Frequency threshold: 0.05
+Interestingness threshold: 0.02
+--Running both SCIS_MATCH and SCIS_HAR method--
+topk for match: 11
+size of class 0: 1315    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1333    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 0:100.0   Accuracy_MATCH ( topk11)0:100.0
+size of class 0: 1300    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1348    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 1:100.0   Accuracy_MATCH ( topk11)1:100.0
+size of class 0: 1304    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1344    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 2:100.0   Accuracy_MATCH ( topk11)2:100.0
+size of class 0: 1297    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1351    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 3:100.0   Accuracy_MATCH ( topk11)3:100.0
+size of class 0: 1297    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1351    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 4:100.0   Accuracy_MATCH ( topk11)4:100.0
+size of class 0: 1293    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1355    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 5:100.0   Accuracy_MATCH ( topk11)5:100.0
+size of class 0: 1298    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1350    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 6:100.0   Accuracy_MATCH ( topk11)6:100.0
+size of class 0: 1302    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1346    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 7:100.0   Accuracy_MATCH ( topk11)7:100.0
+size of class 0: 1295    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1353    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 8:100.0   Accuracy_MATCH ( topk11)8:100.0
+size of class 0: 1313    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1333    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 9:100.0   Accuracy_MATCH ( topk11)9:100.0
+Average accuracy of 10 fold cross validation(HAR):100.0%
+Average accuracy of 10 fold cross validation(MATCH):100.0%
+Average number of frequent pattern:168.0
+Average Number of rules:168.0    Average size of Classifiers:7.0
+Runtime:10.389s 
+-------------------------------- end ------------------------------------
+
+The number of items: 6
+The size of data: 2942
+Max length of sequencial patterns:3
+SCIS         Frequency threshold: 0.05
+Interestingness threshold: 0.02
+--Running both SCIS_MATCH and SCIS_HAR method--
+topk for match: 11
+size of class 0: 1315    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1333    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 0:100.0   Accuracy_MATCH ( topk11)0:100.0
+size of class 0: 1300    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1348    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 1:100.0   Accuracy_MATCH ( topk11)1:100.0
+size of class 0: 1304    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1344    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 2:100.0   Accuracy_MATCH ( topk11)2:100.0
+size of class 0: 1297    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1351    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 3:100.0   Accuracy_MATCH ( topk11)3:100.0
+size of class 0: 1297    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1351    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 4:100.0   Accuracy_MATCH ( topk11)4:100.0
+size of class 0: 1293    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1355    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 5:100.0   Accuracy_MATCH ( topk11)5:100.0
+size of class 0: 1298    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1350    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 6:100.0   Accuracy_MATCH ( topk11)6:100.0
+size of class 0: 1302    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1346    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 7:100.0   Accuracy_MATCH ( topk11)7:100.0
+size of class 0: 1295    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1353    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 8:100.0   Accuracy_MATCH ( topk11)8:100.0
+size of class 0: 1313    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1333    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 9:100.0   Accuracy_MATCH ( topk11)9:100.0
+Average accuracy of 10 fold cross validation(HAR):100.0%
+Average accuracy of 10 fold cross validation(MATCH):100.0%
+Average number of frequent pattern:168.0
+Average Number of rules:168.0    Average size of Classifiers:7.0
+Runtime:10.485s 
+-------------------------------- end ------------------------------------
+
+The number of items: 6
+The size of data: 2942
+Max length of sequencial patterns:3
+SCIS         Frequency threshold: 0.05
+Interestingness threshold: 0.02
+--Running both SCIS_MATCH and SCIS_HAR method--
+topk for match: 11
+size of class 0: 1315    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1333    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 0:100.0   Accuracy_MATCH ( topk11)0:100.0
+size of class 0: 1300    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1348    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 1:100.0   Accuracy_MATCH ( topk11)1:100.0
+size of class 0: 1304    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1344    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 2:100.0   Accuracy_MATCH ( topk11)2:100.0
+size of class 0: 1297    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1351    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 3:100.0   Accuracy_MATCH ( topk11)3:100.0
+size of class 0: 1297    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1351    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 4:100.0   Accuracy_MATCH ( topk11)4:100.0
+size of class 0: 1293    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1355    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 5:100.0   Accuracy_MATCH ( topk11)5:100.0
+size of class 0: 1298    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1350    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 6:100.0   Accuracy_MATCH ( topk11)6:100.0
+size of class 0: 1302    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1346    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 7:100.0   Accuracy_MATCH ( topk11)7:100.0
+size of class 0: 1295    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1353    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 8:100.0   Accuracy_MATCH ( topk11)8:100.0
+size of class 0: 1313    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1333    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 9:100.0   Accuracy_MATCH ( topk11)9:100.0
+Average accuracy of 10 fold cross validation(HAR):100.0%
+Average accuracy of 10 fold cross validation(MATCH):100.0%
+Average number of frequent pattern:168.0
+Average Number of rules:168.0    Average size of Classifiers:7.0
+Runtime:10.489s 
+-------------------------------- end ------------------------------------
+
+The number of items: 6
+The size of data: 2942
+Max length of sequencial patterns:3
+SCIS         Frequency threshold: 0.05
+Interestingness threshold: 0.02
+--Running both SCIS_MATCH and SCIS_HAR method--
+topk for match: 11
+size of class 0: 1315    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1333    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 0:100.0   Accuracy_MATCH ( topk11)0:100.0
+size of class 0: 1300    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1348    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 1:100.0   Accuracy_MATCH ( topk11)1:100.0
+size of class 0: 1304    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1344    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 2:100.0   Accuracy_MATCH ( topk11)2:100.0
+size of class 0: 1297    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1351    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 3:100.0   Accuracy_MATCH ( topk11)3:100.0
+size of class 0: 1297    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1351    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 4:100.0   Accuracy_MATCH ( topk11)4:100.0
+size of class 0: 1293    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1355    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 5:100.0   Accuracy_MATCH ( topk11)5:100.0
+size of class 0: 1298    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1350    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 6:100.0   Accuracy_MATCH ( topk11)6:100.0
+size of class 0: 1302    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1346    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 7:100.0   Accuracy_MATCH ( topk11)7:100.0
+size of class 0: 1295    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1353    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 8:100.0   Accuracy_MATCH ( topk11)8:100.0
+size of class 0: 1313    NO. of patterns of class0: 84    NO. of interesting rules of class0: 84
+size of class 1: 1333    NO. of patterns of class1: 84    NO. of interesting rules of class1: 84
+NO. of all interesting rules: 168  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_HAR 9:100.0   Accuracy_MATCH ( topk11)9:100.0
+Average accuracy of 10 fold cross validation(HAR):100.0%
+Average accuracy of 10 fold cross validation(MATCH):100.0%
+Average number of frequent pattern:168.0
+Average Number of rules:168.0    Average size of Classifiers:7.0
+Runtime:10.517s 
+-------------------------------- end ------------------------------------
+

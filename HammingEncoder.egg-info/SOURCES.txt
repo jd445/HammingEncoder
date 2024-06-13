@@ -1,0 +1,6 @@
+setup.py
+HammingEncoder.egg-info/PKG-INFO
+HammingEncoder.egg-info/SOURCES.txt
+HammingEncoder.egg-info/dependency_links.txt
+HammingEncoder.egg-info/requires.txt
+HammingEncoder.egg-info/top_level.txt

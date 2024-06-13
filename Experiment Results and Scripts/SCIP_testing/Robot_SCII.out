@@ -1,0 +1,1806 @@
+The size of class 1 is: 2205
+The size of class 2 is: 2097
+The number of items: 95
+Average length of a sequence: 24.0
+--Running both SCII_MATCH and SCII_CBA method--
+The number of all items: 95
+The number of data objects: 4302
+Interestingness threshold of class1: 0.02      Frequency threshold1: 0.05
+Interestingness threshold of class2: 0.02      Frequency threshold2: 0.05
+topk for match: 11   Interesting itemset size:1~2    Confidence threshold:0.5
+ NO. of patterns of class0: 424   NO. of rules of class0: 161
+ NO. of patterns of class1: 514   NO. of rules of class1: 230
+NO. of all rules: 391  Size of classifier(MATCH): 149  Size of CBA: 0
+Accuracy_CBA 0:78.13953488372093   Accuracy_MATCH ( topk11)0:79.76744186046511
+ NO. of patterns of class0: 431   NO. of rules of class0: 165
+ NO. of patterns of class1: 513   NO. of rules of class1: 232
+NO. of all rules: 397  Size of classifier(MATCH): 151  Size of CBA: 0
+Accuracy_CBA 1:79.76744186046511   Accuracy_MATCH ( topk11)1:80.93023255813954
+ NO. of patterns of class0: 427   NO. of rules of class0: 156
+ NO. of patterns of class1: 513   NO. of rules of class1: 235
+NO. of all rules: 391  Size of classifier(MATCH): 148  Size of CBA: 0
+Accuracy_CBA 2:81.86046511627907   Accuracy_MATCH ( topk11)2:80.23255813953489
+ NO. of patterns of class0: 436   NO. of rules of class0: 160
+ NO. of patterns of class1: 512   NO. of rules of class1: 235
+NO. of all rules: 395  Size of classifier(MATCH): 144  Size of CBA: 0
+Accuracy_CBA 3:80.0   Accuracy_MATCH ( topk11)3:77.90697674418605
+ NO. of patterns of class0: 421   NO. of rules of class0: 156
+ NO. of patterns of class1: 515   NO. of rules of class1: 238
+NO. of all rules: 394  Size of classifier(MATCH): 157  Size of CBA: 0
+Accuracy_CBA 4:78.37209302325581   Accuracy_MATCH ( topk11)4:77.44186046511628
+ NO. of patterns of class0: 426   NO. of rules of class0: 161
+ NO. of patterns of class1: 516   NO. of rules of class1: 231
+NO. of all rules: 392  Size of classifier(MATCH): 149  Size of CBA: 0
+Accuracy_CBA 5:78.6046511627907   Accuracy_MATCH ( topk11)5:80.46511627906976
+ NO. of patterns of class0: 424   NO. of rules of class0: 163
+ NO. of patterns of class1: 507   NO. of rules of class1: 237
+NO. of all rules: 400  Size of classifier(MATCH): 151  Size of CBA: 0
+Accuracy_CBA 6:77.44186046511628   Accuracy_MATCH ( topk11)6:78.83720930232558
+ NO. of patterns of class0: 424   NO. of rules of class0: 159
+ NO. of patterns of class1: 511   NO. of rules of class1: 234
+NO. of all rules: 393  Size of classifier(MATCH): 151  Size of CBA: 0
+Accuracy_CBA 7:79.06976744186046   Accuracy_MATCH ( topk11)7:79.53488372093024
+ NO. of patterns of class0: 428   NO. of rules of class0: 163
+ NO. of patterns of class1: 516   NO. of rules of class1: 231
+NO. of all rules: 394  Size of classifier(MATCH): 153  Size of CBA: 0
+Accuracy_CBA 8:79.06976744186046   Accuracy_MATCH ( topk11)8:79.76744186046511
+ NO. of patterns of class0: 429   NO. of rules of class0: 156
+ NO. of patterns of class1: 510   NO. of rules of class1: 241
+NO. of all rules: 397  Size of classifier(MATCH): 150  Size of CBA: 0
+Accuracy_CBA 9:81.94444444444444   Accuracy_MATCH ( topk11)9:83.33333333333333
+Average accuracy of 10 fold cross validation(HAR):79.42700258397932%
+Average accuracy of 10 fold cross validation(MATCH):79.8217054263566%
+Average number of frequent pattern:939.7
+Average Number of rules:394.4    Average size of Classifiers:150.3
+Runtime:1.719s   or  0m 1s 719 ms
+-------------------------------- end ------------------------------------
+
+The size of class 1 is: 2205
+The size of class 2 is: 2097
+The number of items: 95
+Average length of a sequence: 24.0
+--Running both SCII_MATCH and SCII_CBA method--
+The number of all items: 95
+The number of data objects: 4302
+Interestingness threshold of class1: 0.02      Frequency threshold1: 0.05
+Interestingness threshold of class2: 0.02      Frequency threshold2: 0.05
+topk for match: 11   Interesting itemset size:1~3    Confidence threshold:0.5
+ NO. of patterns of class0: 424   NO. of rules of class0: 291
+ NO. of patterns of class1: 514   NO. of rules of class1: 578
+NO. of all rules: 869  Size of classifier(MATCH): 224  Size of CBA: 0
+Accuracy_CBA 0:78.37209302325581   Accuracy_MATCH ( topk11)0:81.3953488372093
+ NO. of patterns of class0: 431   NO. of rules of class0: 298
+ NO. of patterns of class1: 513   NO. of rules of class1: 575
+NO. of all rules: 873  Size of classifier(MATCH): 220  Size of CBA: 0
+Accuracy_CBA 1:80.23255813953489   Accuracy_MATCH ( topk11)1:82.79069767441861
+ NO. of patterns of class0: 427   NO. of rules of class0: 283
+ NO. of patterns of class1: 513   NO. of rules of class1: 589
+NO. of all rules: 872  Size of classifier(MATCH): 216  Size of CBA: 0
+Accuracy_CBA 2:81.62790697674419   Accuracy_MATCH ( topk11)2:82.55813953488372
+ NO. of patterns of class0: 436   NO. of rules of class0: 288
+ NO. of patterns of class1: 512   NO. of rules of class1: 582
+NO. of all rules: 870  Size of classifier(MATCH): 210  Size of CBA: 0
+Accuracy_CBA 3:80.93023255813954   Accuracy_MATCH ( topk11)3:79.76744186046511
+ NO. of patterns of class0: 421   NO. of rules of class0: 286
+ NO. of patterns of class1: 515   NO. of rules of class1: 591
+NO. of all rules: 877  Size of classifier(MATCH): 229  Size of CBA: 0
+Accuracy_CBA 4:78.13953488372093   Accuracy_MATCH ( topk11)4:79.53488372093024
+ NO. of patterns of class0: 426   NO. of rules of class0: 291
+ NO. of patterns of class1: 516   NO. of rules of class1: 585
+NO. of all rules: 876  Size of classifier(MATCH): 224  Size of CBA: 0
+Accuracy_CBA 5:80.46511627906976   Accuracy_MATCH ( topk11)5:81.62790697674419
+ NO. of patterns of class0: 424   NO. of rules of class0: 294
+ NO. of patterns of class1: 507   NO. of rules of class1: 586
+NO. of all rules: 880  Size of classifier(MATCH): 222  Size of CBA: 0
+Accuracy_CBA 6:81.16279069767442   Accuracy_MATCH ( topk11)6:80.69767441860465
+ NO. of patterns of class0: 424   NO. of rules of class0: 286
+ NO. of patterns of class1: 511   NO. of rules of class1: 582
+NO. of all rules: 868  Size of classifier(MATCH): 229  Size of CBA: 0
+Accuracy_CBA 7:79.53488372093024   Accuracy_MATCH ( topk11)7:82.32558139534883
+ NO. of patterns of class0: 428   NO. of rules of class0: 294
+ NO. of patterns of class1: 516   NO. of rules of class1: 573
+NO. of all rules: 867  Size of classifier(MATCH): 225  Size of CBA: 0
+Accuracy_CBA 8:80.0   Accuracy_MATCH ( topk11)8:82.32558139534883
+ NO. of patterns of class0: 429   NO. of rules of class0: 278
+ NO. of patterns of class1: 510   NO. of rules of class1: 589
+NO. of all rules: 867  Size of classifier(MATCH): 223  Size of CBA: 0
+Accuracy_CBA 9:83.79629629629629   Accuracy_MATCH ( topk11)9:82.17592592592592
+Average accuracy of 10 fold cross validation(HAR):80.42614125753661%
+Average accuracy of 10 fold cross validation(MATCH):81.51991817398793%
+Average number of frequent pattern:939.7
+Average Number of rules:871.9    Average size of Classifiers:222.2
+Runtime:2.389s   or  0m 2s 389 ms
+-------------------------------- end ------------------------------------
+
+The size of class 1 is: 2205
+The size of class 2 is: 2097
+The number of items: 95
+Average length of a sequence: 24.0
+--Running both SCII_MATCH and SCII_CBA method--
+The number of all items: 95
+The number of data objects: 4302
+Interestingness threshold of class1: 0.02      Frequency threshold1: 0.05
+Interestingness threshold of class2: 0.02      Frequency threshold2: 0.05
+topk for match: 11   Interesting itemset size:1~4    Confidence threshold:0.5
+ NO. of patterns of class0: 424   NO. of rules of class0: 313
+ NO. of patterns of class1: 514   NO. of rules of class1: 803
+NO. of all rules: 1116  Size of classifier(MATCH): 249  Size of CBA: 0
+Accuracy_CBA 0:79.53488372093024   Accuracy_MATCH ( topk11)0:82.32558139534883
+ NO. of patterns of class0: 431   NO. of rules of class0: 323
+ NO. of patterns of class1: 513   NO. of rules of class1: 799
+NO. of all rules: 1122  Size of classifier(MATCH): 250  Size of CBA: 0
+Accuracy_CBA 1:82.79069767441861   Accuracy_MATCH ( topk11)1:83.02325581395348
+ NO. of patterns of class0: 427   NO. of rules of class0: 308
+ NO. of patterns of class1: 513   NO. of rules of class1: 819
+NO. of all rules: 1127  Size of classifier(MATCH): 248  Size of CBA: 0
+Accuracy_CBA 2:80.93023255813954   Accuracy_MATCH ( topk11)2:82.55813953488372
+ NO. of patterns of class0: 436   NO. of rules of class0: 315
+ NO. of patterns of class1: 512   NO. of rules of class1: 815
+NO. of all rules: 1130  Size of classifier(MATCH): 244  Size of CBA: 0
+Accuracy_CBA 3:81.16279069767442   Accuracy_MATCH ( topk11)3:80.0
+ NO. of patterns of class0: 421   NO. of rules of class0: 312
+ NO. of patterns of class1: 515   NO. of rules of class1: 823
+NO. of all rules: 1135  Size of classifier(MATCH): 256  Size of CBA: 0
+Accuracy_CBA 4:78.6046511627907   Accuracy_MATCH ( topk11)4:80.23255813953489
+ NO. of patterns of class0: 426   NO. of rules of class0: 317
+ NO. of patterns of class1: 516   NO. of rules of class1: 813
+NO. of all rules: 1130  Size of classifier(MATCH): 252  Size of CBA: 0
+Accuracy_CBA 5:82.32558139534883   Accuracy_MATCH ( topk11)5:82.32558139534883
+ NO. of patterns of class0: 424   NO. of rules of class0: 319
+ NO. of patterns of class1: 507   NO. of rules of class1: 820
+NO. of all rules: 1139  Size of classifier(MATCH): 243  Size of CBA: 0
+Accuracy_CBA 6:80.23255813953489   Accuracy_MATCH ( topk11)6:80.0
+ NO. of patterns of class0: 424   NO. of rules of class0: 309
+ NO. of patterns of class1: 511   NO. of rules of class1: 806
+NO. of all rules: 1115  Size of classifier(MATCH): 250  Size of CBA: 0
+Accuracy_CBA 7:78.6046511627907   Accuracy_MATCH ( topk11)7:82.09302325581395
+ NO. of patterns of class0: 428   NO. of rules of class0: 316
+ NO. of patterns of class1: 516   NO. of rules of class1: 801
+NO. of all rules: 1117  Size of classifier(MATCH): 256  Size of CBA: 0
+Accuracy_CBA 8:81.16279069767442   Accuracy_MATCH ( topk11)8:83.02325581395348
+ NO. of patterns of class0: 429   NO. of rules of class0: 304
+ NO. of patterns of class1: 510   NO. of rules of class1: 817
+NO. of all rules: 1121  Size of classifier(MATCH): 252  Size of CBA: 0
+Accuracy_CBA 9:82.87037037037037   Accuracy_MATCH ( topk11)9:81.71296296296296
+Average accuracy of 10 fold cross validation(HAR):80.82192075796726%
+Average accuracy of 10 fold cross validation(MATCH):81.72943583118%
+Average number of frequent pattern:939.7
+Average Number of rules:1125.2    Average size of Classifiers:250.0
+Runtime:2.938s   or  0m 2s 938 ms
+-------------------------------- end ------------------------------------
+
+The size of class 1 is: 45000
+The size of class 2 is: 45000
+The number of items: 22
+Average length of a sequence: 15.939822
+--Running both SCII_MATCH and SCII_CBA method--
+The number of all items: 22
+The number of data objects: 90000
+Interestingness threshold of class1: 0.02      Frequency threshold1: 0.05
+Interestingness threshold of class2: 0.02      Frequency threshold2: 0.05
+topk for match: 11   Interesting itemset size:1~2    Confidence threshold:0.5
+ NO. of patterns of class0: 205   NO. of rules of class0: 95
+ NO. of patterns of class1: 204   NO. of rules of class1: 106
+NO. of all rules: 201  Size of classifier(MATCH): 103  Size of CBA: 0
+Accuracy_CBA 0:53.6   Accuracy_MATCH ( topk11)0:54.333333333333336
+ NO. of patterns of class0: 205   NO. of rules of class0: 97
+ NO. of patterns of class1: 204   NO. of rules of class1: 104
+NO. of all rules: 201  Size of classifier(MATCH): 102  Size of CBA: 0
+Accuracy_CBA 1:54.31111111111111   Accuracy_MATCH ( topk11)1:54.91111111111111
+ NO. of patterns of class0: 205   NO. of rules of class0: 96
+ NO. of patterns of class1: 204   NO. of rules of class1: 105
+NO. of all rules: 201  Size of classifier(MATCH): 98  Size of CBA: 0
+Accuracy_CBA 2:54.43333333333333   Accuracy_MATCH ( topk11)2:54.96666666666667
+ NO. of patterns of class0: 205   NO. of rules of class0: 98
+ NO. of patterns of class1: 204   NO. of rules of class1: 102
+NO. of all rules: 200  Size of classifier(MATCH): 101  Size of CBA: 0
+Accuracy_CBA 3:55.87777777777778   Accuracy_MATCH ( topk11)3:56.65555555555556
+ NO. of patterns of class0: 205   NO. of rules of class0: 95
+ NO. of patterns of class1: 204   NO. of rules of class1: 105
+NO. of all rules: 200  Size of classifier(MATCH): 99  Size of CBA: 0
+Accuracy_CBA 4:54.56666666666667   Accuracy_MATCH ( topk11)4:54.27777777777778
+ NO. of patterns of class0: 205   NO. of rules of class0: 96
+ NO. of patterns of class1: 204   NO. of rules of class1: 104
+NO. of all rules: 200  Size of classifier(MATCH): 102  Size of CBA: 0
+Accuracy_CBA 5:55.766666666666666   Accuracy_MATCH ( topk11)5:55.96666666666667
+ NO. of patterns of class0: 205   NO. of rules of class0: 97
+ NO. of patterns of class1: 204   NO. of rules of class1: 104
+NO. of all rules: 201  Size of classifier(MATCH): 100  Size of CBA: 0
+Accuracy_CBA 6:54.955555555555556   Accuracy_MATCH ( topk11)6:54.82222222222222
+ NO. of patterns of class0: 205   NO. of rules of class0: 98
+ NO. of patterns of class1: 204   NO. of rules of class1: 103
+NO. of all rules: 201  Size of classifier(MATCH): 100  Size of CBA: 0
+Accuracy_CBA 7:54.81111111111111   Accuracy_MATCH ( topk11)7:55.34444444444444
+ NO. of patterns of class0: 205   NO. of rules of class0: 95
+ NO. of patterns of class1: 204   NO. of rules of class1: 106
+NO. of all rules: 201  Size of classifier(MATCH): 104  Size of CBA: 0
+Accuracy_CBA 8:55.68888888888889   Accuracy_MATCH ( topk11)8:55.477777777777774
+ NO. of patterns of class0: 205   NO. of rules of class0: 98
+ NO. of patterns of class1: 204   NO. of rules of class1: 103
+NO. of all rules: 201  Size of classifier(MATCH): 101  Size of CBA: 0
+Accuracy_CBA 9:54.733333333333334   Accuracy_MATCH ( topk11)9:55.333333333333336
+Average accuracy of 10 fold cross validation(HAR):54.87444444444444%
+Average accuracy of 10 fold cross validation(MATCH):55.208888888888886%
+Average number of frequent pattern:409.0
+Average Number of rules:200.7    Average size of Classifiers:101.0
+Runtime:188.814s   or  3m 8s 814 ms
+-------------------------------- end ------------------------------------
+
+The size of class 1 is: 45000
+The size of class 2 is: 45000
+The number of items: 22
+Average length of a sequence: 15.939822
+--Running both SCII_MATCH and SCII_CBA method--
+The number of all items: 22
+The number of data objects: 90000
+Interestingness threshold of class1: 0.02      Frequency threshold1: 0.05
+Interestingness threshold of class2: 0.02      Frequency threshold2: 0.05
+topk for match: 11   Interesting itemset size:1~3    Confidence threshold:0.5
+ NO. of patterns of class0: 205   NO. of rules of class0: 559
+ NO. of patterns of class1: 204   NO. of rules of class1: 481
+NO. of all rules: 1040  Size of classifier(MATCH): 228  Size of CBA: 0
+Accuracy_CBA 0:54.21111111111111   Accuracy_MATCH ( topk11)0:55.31111111111111
+ NO. of patterns of class0: 205   NO. of rules of class0: 586
+ NO. of patterns of class1: 204   NO. of rules of class1: 453
+NO. of all rules: 1039  Size of classifier(MATCH): 236  Size of CBA: 0
+Accuracy_CBA 1:53.644444444444446   Accuracy_MATCH ( topk11)1:55.34444444444444
+ NO. of patterns of class0: 205   NO. of rules of class0: 587
+ NO. of patterns of class1: 204   NO. of rules of class1: 451
+NO. of all rules: 1038  Size of classifier(MATCH): 225  Size of CBA: 0
+Accuracy_CBA 2:53.5   Accuracy_MATCH ( topk11)2:55.28888888888889
+ NO. of patterns of class0: 205   NO. of rules of class0: 599
+ NO. of patterns of class1: 204   NO. of rules of class1: 437
+NO. of all rules: 1036  Size of classifier(MATCH): 227  Size of CBA: 0
+Accuracy_CBA 3:54.41111111111111   Accuracy_MATCH ( topk11)3:56.922222222222224
+ NO. of patterns of class0: 205   NO. of rules of class0: 565
+ NO. of patterns of class1: 204   NO. of rules of class1: 474
+NO. of all rules: 1039  Size of classifier(MATCH): 228  Size of CBA: 0
+Accuracy_CBA 4:54.41111111111111   Accuracy_MATCH ( topk11)4:55.72222222222222
+ NO. of patterns of class0: 205   NO. of rules of class0: 579
+ NO. of patterns of class1: 204   NO. of rules of class1: 459
+NO. of all rules: 1038  Size of classifier(MATCH): 243  Size of CBA: 0
+Accuracy_CBA 5:54.644444444444446   Accuracy_MATCH ( topk11)5:56.34444444444444
+ NO. of patterns of class0: 205   NO. of rules of class0: 571
+ NO. of patterns of class1: 204   NO. of rules of class1: 465
+NO. of all rules: 1036  Size of classifier(MATCH): 223  Size of CBA: 0
+Accuracy_CBA 6:54.43333333333333   Accuracy_MATCH ( topk11)6:55.577777777777776
+ NO. of patterns of class0: 205   NO. of rules of class0: 595
+ NO. of patterns of class1: 204   NO. of rules of class1: 441
+NO. of all rules: 1036  Size of classifier(MATCH): 236  Size of CBA: 0
+Accuracy_CBA 7:53.96666666666667   Accuracy_MATCH ( topk11)7:56.37777777777778
+ NO. of patterns of class0: 205   NO. of rules of class0: 588
+ NO. of patterns of class1: 204   NO. of rules of class1: 451
+NO. of all rules: 1039  Size of classifier(MATCH): 237  Size of CBA: 0
+Accuracy_CBA 8:54.82222222222222   Accuracy_MATCH ( topk11)8:55.855555555555554
+ NO. of patterns of class0: 205   NO. of rules of class0: 580
+ NO. of patterns of class1: 204   NO. of rules of class1: 459
+NO. of all rules: 1039  Size of classifier(MATCH): 226  Size of CBA: 0
+Accuracy_CBA 9:54.67777777777778   Accuracy_MATCH ( topk11)9:56.25555555555555
+Average accuracy of 10 fold cross validation(HAR):54.27222222222222%
+Average accuracy of 10 fold cross validation(MATCH):55.9%
+Average number of frequent pattern:409.0
+Average Number of rules:1038.0    Average size of Classifiers:230.9
+Runtime:221.103s   or  3m 41s 103 ms
+-------------------------------- end ------------------------------------
+
+The size of class 1 is: 45000
+The size of class 2 is: 45000
+The number of items: 22
+Average length of a sequence: 15.939822
+--Running both SCII_MATCH and SCII_CBA method--
+The number of all items: 22
+The number of data objects: 90000
+Interestingness threshold of class1: 0.02      Frequency threshold1: 0.05
+Interestingness threshold of class2: 0.02      Frequency threshold2: 0.05
+topk for match: 11   Interesting itemset size:1~4    Confidence threshold:0.5
+ NO. of patterns of class0: 205   NO. of rules of class0: 2014
+The size of class 1 is: 106
+The size of class 2 is: 42
+The size of class 3 is: 8
+The size of class 4 is: 675
+The size of class 5 is: 132
+The size of class 6 is: 57
+The size of class 7 is: 23
+The size of class 8 is: 105
+The size of class 9 is: 332
+The size of class 10 is: 76
+The size of class 11 is: 30
+The size of class 12 is: 245
+The size of class 13 is: 24
+The size of class 14 is: 55
+The size of class 15 is: 60
+The size of class 16 is: 116
+The size of class 17 is: 172
+The size of class 18 is: 29
+The size of class 19 is: 101
+The size of class 20 is: 52
+The size of class 21 is: 22
+The size of class 22 is: 23
+The size of class 23 is: 61
+The size of class 24 is: 24
+The size of class 25 is: 219
+The size of class 26 is: 145
+The size of class 27 is: 21
+The size of class 28 is: 28
+The size of class 29 is: 101
+The size of class 30 is: 33
+The size of class 31 is: 25
+The size of class 32 is: 50
+The size of class 33 is: 23
+The size of class 34 is: 22
+The size of class 35 is: 43
+The size of class 36 is: 25
+The size of class 37 is: 51
+The size of class 38 is: 29
+The size of class 39 is: 25
+The size of class 40 is: 54
+The number of items: 94
+Average length of a sequence: 43.666283
+--Running both SCII_MATCH and SCII_CBA method--
+The number of all items: 94
+The number of data objects: 3464
+Interestingness threshold of class1: 0.02      Frequency threshold1: 0.05
+Interestingness threshold of class2: 0.02      Frequency threshold2: 0.05
+topk for match: 11   Interesting itemset size:1~2    Confidence threshold:0.5
+ERROR: the args[1]!
+ERROR: the args[1]!
+The size of class 1 is: 106
+The size of class 2 is: 42
+The size of class 3 is: 8
+The size of class 4 is: 675
+The size of class 5 is: 132
+The size of class 6 is: 57
+The size of class 7 is: 23
+The size of class 8 is: 105
+The size of class 9 is: 332
+The size of class 10 is: 76
+The size of class 11 is: 30
+The size of class 12 is: 245
+The size of class 13 is: 24
+The size of class 14 is: 55
+The size of class 15 is: 60
+The size of class 16 is: 116
+The size of class 17 is: 172
+The size of class 18 is: 29
+The size of class 19 is: 101
+The size of class 20 is: 52
+The size of class 21 is: 22
+The size of class 22 is: 23
+The size of class 23 is: 61
+The size of class 24 is: 24
+The size of class 25 is: 219
+The size of class 26 is: 145
+The size of class 27 is: 21
+The size of class 28 is: 28
+The size of class 29 is: 101
+The size of class 30 is: 33
+The size of class 31 is: 25
+The size of class 32 is: 50
+The size of class 33 is: 23
+The size of class 34 is: 22
+The size of class 35 is: 43
+The size of class 36 is: 25
+The size of class 37 is: 51
+The size of class 38 is: 29
+The size of class 39 is: 25
+The size of class 40 is: 54
+The number of items: 94
+Average length of a sequence: 43.666283
+--Running both SCII_MATCH and SCII_CBA method--
+The number of all items: 94
+The number of data objects: 3464
+Interestingness threshold of class1: 0.02      Frequency threshold1: 0.05
+Interestingness threshold of class2: 0.02      Frequency threshold2: 0.05
+topk for match: 11   Interesting itemset size:1~3    Confidence threshold:0.5
+ERROR: the args[1]!
+ERROR: the args[1]!
+The size of class 1 is: 106
+The size of class 2 is: 42
+The size of class 3 is: 8
+The size of class 4 is: 675
+The size of class 5 is: 132
+The size of class 6 is: 57
+The size of class 7 is: 23
+The size of class 8 is: 105
+The size of class 9 is: 332
+The size of class 10 is: 76
+The size of class 11 is: 30
+The size of class 12 is: 245
+The size of class 13 is: 24
+The size of class 14 is: 55
+The size of class 15 is: 60
+The size of class 16 is: 116
+The size of class 17 is: 172
+The size of class 18 is: 29
+The size of class 19 is: 101
+The size of class 20 is: 52
+The size of class 21 is: 22
+The size of class 22 is: 23
+The size of class 23 is: 61
+The size of class 24 is: 24
+The size of class 25 is: 219
+The size of class 26 is: 145
+The size of class 27 is: 21
+The size of class 28 is: 28
+The size of class 29 is: 101
+The size of class 30 is: 33
+The size of class 31 is: 25
+The size of class 32 is: 50
+The size of class 33 is: 23
+The size of class 34 is: 22
+The size of class 35 is: 43
+The size of class 36 is: 25
+The size of class 37 is: 51
+The size of class 38 is: 29
+The size of class 39 is: 25
+The size of class 40 is: 54
+The number of items: 94
+Average length of a sequence: 43.666283
+--Running both SCII_MATCH and SCII_CBA method--
+The number of all items: 94
+The number of data objects: 3464
+Interestingness threshold of class1: 0.02      Frequency threshold1: 0.05
+Interestingness threshold of class2: 0.02      Frequency threshold2: 0.05
+topk for match: 11   Interesting itemset size:1~4    Confidence threshold:0.5
+ERROR: the args[1]!
+ERROR: the args[1]!
+The size of class 1 is: 106
+The size of class 2 is: 42
+The size of class 3 is: 8
+The size of class 4 is: 675
+The size of class 5 is: 132
+The size of class 6 is: 57
+The size of class 7 is: 23
+The size of class 8 is: 105
+The size of class 9 is: 332
+The size of class 10 is: 76
+The size of class 11 is: 30
+The size of class 12 is: 245
+The size of class 13 is: 24
+The size of class 14 is: 55
+The size of class 15 is: 60
+The size of class 16 is: 116
+The size of class 17 is: 172
+The size of class 18 is: 29
+The size of class 19 is: 101
+The size of class 20 is: 52
+The size of class 21 is: 22
+The size of class 22 is: 23
+The size of class 23 is: 61
+The size of class 24 is: 24
+The size of class 25 is: 219
+The size of class 26 is: 145
+The size of class 27 is: 21
+The size of class 28 is: 28
+The size of class 29 is: 101
+The size of class 30 is: 33
+The size of class 31 is: 25
+The size of class 32 is: 50
+The size of class 33 is: 23
+The size of class 34 is: 22
+The size of class 35 is: 43
+The size of class 36 is: 25
+The size of class 37 is: 51
+The size of class 38 is: 29
+The size of class 39 is: 25
+The size of class 40 is: 54
+The number of items: 94
+Average length of a sequence: 43.666283
+--Running both SCII_MATCH and SCII_CBA method--
+The number of all items: 94
+The number of data objects: 3464
+Interestingness threshold of class1: 0.02      Frequency threshold1: 0.05
+Interestingness threshold of class2: 0.02      Frequency threshold2: 0.05
+topk for match: 11   Interesting itemset size:1~5    Confidence threshold:0.5
+ERROR: the args[1]!
+ERROR: the args[1]!
+The size of class 1 is: 106
+The size of class 2 is: 42
+The size of class 3 is: 8
+The size of class 4 is: 675
+The size of class 5 is: 132
+The size of class 6 is: 57
+The size of class 7 is: 23
+The size of class 8 is: 105
+The size of class 9 is: 332
+The size of class 10 is: 76
+The size of class 11 is: 30
+The size of class 12 is: 245
+The size of class 13 is: 24
+The size of class 14 is: 55
+The size of class 15 is: 60
+The size of class 16 is: 116
+The size of class 17 is: 172
+The size of class 18 is: 29
+The size of class 19 is: 101
+The size of class 20 is: 52
+The size of class 21 is: 22
+The size of class 22 is: 23
+The size of class 23 is: 61
+The size of class 24 is: 24
+The size of class 25 is: 219
+The size of class 26 is: 145
+The size of class 27 is: 21
+The size of class 28 is: 28
+The size of class 29 is: 101
+The size of class 30 is: 33
+The size of class 31 is: 25
+The size of class 32 is: 50
+The size of class 33 is: 23
+The size of class 34 is: 22
+The size of class 35 is: 43
+The size of class 36 is: 25
+The size of class 37 is: 51
+The size of class 38 is: 29
+The size of class 39 is: 25
+The size of class 40 is: 54
+The number of items: 94
+Average length of a sequence: 43.666283
+--Running both SCII_MATCH and SCII_CBA method--
+The number of all items: 94
+The number of data objects: 3464
+Interestingness threshold of class1: 0.02      Frequency threshold1: 0.05
+Interestingness threshold of class2: 0.02      Frequency threshold2: 0.05
+topk for match: 40   Interesting itemset size:1~2    Confidence threshold:0.5
+ERROR: the args[1]!
+ERROR: the args[1]!
+The size of class 1 is: 106
+The size of class 2 is: 42
+The size of class 3 is: 8
+The size of class 4 is: 675
+The size of class 5 is: 132
+The size of class 6 is: 57
+The size of class 7 is: 23
+The size of class 8 is: 105
+The size of class 9 is: 332
+The size of class 10 is: 76
+The size of class 11 is: 30
+The size of class 12 is: 245
+The size of class 13 is: 24
+The size of class 14 is: 55
+The size of class 15 is: 60
+The size of class 16 is: 116
+The size of class 17 is: 172
+The size of class 18 is: 29
+The size of class 19 is: 101
+The size of class 20 is: 52
+The size of class 21 is: 22
+The size of class 22 is: 23
+The size of class 23 is: 61
+The size of class 24 is: 24
+The size of class 25 is: 219
+The size of class 26 is: 145
+The size of class 27 is: 21
+The size of class 28 is: 28
+The size of class 29 is: 101
+The size of class 30 is: 33
+The size of class 31 is: 25
+The size of class 32 is: 50
+The size of class 33 is: 23
+The size of class 34 is: 22
+The size of class 35 is: 43
+The size of class 36 is: 25
+The size of class 37 is: 51
+The size of class 38 is: 29
+The size of class 39 is: 25
+The size of class 40 is: 54
+The number of items: 94
+Average length of a sequence: 43.666283
+--Running both SCII_MATCH and SCII_CBA method--
+The number of all items: 94
+The number of data objects: 3464
+Interestingness threshold of class1: 0.02      Frequency threshold1: 0.05
+Interestingness threshold of class2: 0.02      Frequency threshold2: 0.05
+topk for match: 40   Interesting itemset size:1~3    Confidence threshold:0.5
+ERROR: the args[1]!
+ERROR: the args[1]!
+The size of class 1 is: 106
+The size of class 2 is: 42
+The size of class 3 is: 8
+The size of class 4 is: 675
+The size of class 5 is: 132
+The size of class 6 is: 57
+The size of class 7 is: 23
+The size of class 8 is: 105
+The size of class 9 is: 332
+The size of class 10 is: 76
+The size of class 11 is: 30
+The size of class 12 is: 245
+The size of class 13 is: 24
+The size of class 14 is: 55
+The size of class 15 is: 60
+The size of class 16 is: 116
+The size of class 17 is: 172
+The size of class 18 is: 29
+The size of class 19 is: 101
+The size of class 20 is: 52
+The size of class 21 is: 22
+The size of class 22 is: 23
+The size of class 23 is: 61
+The size of class 24 is: 24
+The size of class 25 is: 219
+The size of class 26 is: 145
+The size of class 27 is: 21
+The size of class 28 is: 28
+The size of class 29 is: 101
+The size of class 30 is: 33
+The size of class 31 is: 25
+The size of class 32 is: 50
+The size of class 33 is: 23
+The size of class 34 is: 22
+The size of class 35 is: 43
+The size of class 36 is: 25
+The size of class 37 is: 51
+The size of class 38 is: 29
+The size of class 39 is: 25
+The size of class 40 is: 54
+The number of items: 94
+Average length of a sequence: 43.666283
+--Running both SCII_MATCH and SCII_CBA method--
+The number of all items: 94
+The number of data objects: 3464
+Interestingness threshold of class1: 0.02      Frequency threshold1: 0.05
+Interestingness threshold of class2: 0.02      Frequency threshold2: 0.05
+topk for match: 40   Interesting itemset size:1~4    Confidence threshold:0.5
+ERROR: the args[1]!
+ERROR: the args[1]!
+The size of class 1 is: 106
+The size of class 2 is: 42
+The size of class 3 is: 8
+The size of class 4 is: 675
+The size of class 5 is: 132
+The size of class 6 is: 57
+The size of class 7 is: 23
+The size of class 8 is: 105
+The size of class 9 is: 332
+The size of class 10 is: 76
+The size of class 11 is: 30
+The size of class 12 is: 245
+The size of class 13 is: 24
+The size of class 14 is: 55
+The size of class 15 is: 60
+The size of class 16 is: 116
+The size of class 17 is: 172
+The size of class 18 is: 29
+The size of class 19 is: 101
+The size of class 20 is: 52
+The size of class 21 is: 22
+The size of class 22 is: 23
+The size of class 23 is: 61
+The size of class 24 is: 24
+The size of class 25 is: 219
+The size of class 26 is: 145
+The size of class 27 is: 21
+The size of class 28 is: 28
+The size of class 29 is: 101
+The size of class 30 is: 33
+The size of class 31 is: 25
+The size of class 32 is: 50
+The size of class 33 is: 23
+The size of class 34 is: 22
+The size of class 35 is: 43
+The size of class 36 is: 25
+The size of class 37 is: 51
+The size of class 38 is: 29
+The size of class 39 is: 25
+The size of class 40 is: 54
+The number of items: 94
+Average length of a sequence: 43.666283
+--Running both SCII_MATCH and SCII_CBA method--
+The number of all items: 94
+The number of data objects: 3464
+Interestingness threshold of class1: 0.02      Frequency threshold1: 0.05
+Interestingness threshold of class2: 0.02      Frequency threshold2: 0.05
+topk for match: 40   Interesting itemset size:1~5    Confidence threshold:0.5
+ERROR: the args[1]!
+ERROR: the args[1]!
+The size of class 1 is: 106
+The size of class 2 is: 42
+The number of items: 94
+Average length of a sequence: 61.675674
+--Running both SCII_MATCH and SCII_CBA method--
+The number of all items: 94
+The number of data objects: 148
+Interestingness threshold of class1: 0.02      Frequency threshold1: 0.05
+Interestingness threshold of class2: 0.02      Frequency threshold2: 0.05
+topk for match: 40   Interesting itemset size:1~2    Confidence threshold:0.5
+ NO. of patterns of class0: 4413   NO. of rules of class0: 3448
+ NO. of patterns of class1: 2763   NO. of rules of class1: 56
+NO. of all rules: 3504  Size of classifier(MATCH): 9  Size of CBA: 0
+Accuracy_CBA 0:100.0   Accuracy_MATCH ( topk40)0:100.0
+ NO. of patterns of class0: 4421   NO. of rules of class0: 3478
+ NO. of patterns of class1: 2771   NO. of rules of class1: 50
+NO. of all rules: 3528  Size of classifier(MATCH): 8  Size of CBA: 0
+Accuracy_CBA 1:100.0   Accuracy_MATCH ( topk40)1:100.0
+ NO. of patterns of class0: 4425   NO. of rules of class0: 3496
+ NO. of patterns of class1: 2716   NO. of rules of class1: 42
+NO. of all rules: 3538  Size of classifier(MATCH): 6  Size of CBA: 0
+Accuracy_CBA 2:92.85714285714286   Accuracy_MATCH ( topk40)2:92.85714285714286
+ NO. of patterns of class0: 4401   NO. of rules of class0: 3463
+ NO. of patterns of class1: 2456   NO. of rules of class1: 57
+NO. of all rules: 3520  Size of classifier(MATCH): 9  Size of CBA: 0
+Accuracy_CBA 3:100.0   Accuracy_MATCH ( topk40)3:100.0
+ NO. of patterns of class0: 4425   NO. of rules of class0: 3461
+ NO. of patterns of class1: 2763   NO. of rules of class1: 52
+NO. of all rules: 3513  Size of classifier(MATCH): 9  Size of CBA: 0
+Accuracy_CBA 4:92.85714285714286   Accuracy_MATCH ( topk40)4:100.0
+ NO. of patterns of class0: 4389   NO. of rules of class0: 3421
+ NO. of patterns of class1: 1833   NO. of rules of class1: 39
+NO. of all rules: 3460  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_CBA 5:100.0   Accuracy_MATCH ( topk40)5:100.0
+ NO. of patterns of class0: 4409   NO. of rules of class0: 3446
+ NO. of patterns of class1: 2739   NO. of rules of class1: 50
+NO. of all rules: 3496  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_CBA 6:92.85714285714286   Accuracy_MATCH ( topk40)6:92.85714285714286
+ NO. of patterns of class0: 4385   NO. of rules of class0: 3355
+ NO. of patterns of class1: 2751   NO. of rules of class1: 48
+NO. of all rules: 3403  Size of classifier(MATCH): 8  Size of CBA: 0
+Accuracy_CBA 7:92.85714285714286   Accuracy_MATCH ( topk40)7:92.85714285714286
+ NO. of patterns of class0: 4389   NO. of rules of class0: 3455
+ NO. of patterns of class1: 2759   NO. of rules of class1: 61
+NO. of all rules: 3516  Size of classifier(MATCH): 9  Size of CBA: 0
+Accuracy_CBA 8:100.0   Accuracy_MATCH ( topk40)8:100.0
+ NO. of patterns of class0: 4301   NO. of rules of class0: 3461
+ NO. of patterns of class1: 2724   NO. of rules of class1: 61
+NO. of all rules: 3522  Size of classifier(MATCH): 9  Size of CBA: 0
+Accuracy_CBA 9:95.45454545454545   Accuracy_MATCH ( topk40)9:95.45454545454545
+Average accuracy of 10 fold cross validation(HAR):96.6883116883117%
+Average accuracy of 10 fold cross validation(MATCH):97.40259740259742%
+Average number of frequent pattern:7023.3
+Average Number of rules:3500.0    Average size of Classifiers:8.1
+Runtime:0.597s   or  0m 0s 597 ms
+-------------------------------- end ------------------------------------
+
+The size of class 1 is: 106
+The size of class 2 is: 42
+The number of items: 94
+Average length of a sequence: 61.675674
+--Running both SCII_MATCH and SCII_CBA method--
+The number of all items: 94
+The number of data objects: 148
+Interestingness threshold of class1: 0.02      Frequency threshold1: 0.05
+Interestingness threshold of class2: 0.02      Frequency threshold2: 0.05
+topk for match: 40   Interesting itemset size:1~3    Confidence threshold:0.5
+ NO. of patterns of class0: 4413   NO. of rules of class0: 70073
+ NO. of patterns of class1: 2763   NO. of rules of class1: 586
+NO. of all rules: 70659  Size of classifier(MATCH): 11  Size of CBA: 0
+Accuracy_CBA 0:100.0   Accuracy_MATCH ( topk40)0:100.0
+ NO. of patterns of class0: 4421   NO. of rules of class0: 71924
+ NO. of patterns of class1: 2771   NO. of rules of class1: 561
+NO. of all rules: 72485  Size of classifier(MATCH): 11  Size of CBA: 0
+Accuracy_CBA 1:100.0   Accuracy_MATCH ( topk40)1:100.0
+ NO. of patterns of class0: 4425   NO. of rules of class0: 73231
+ NO. of patterns of class1: 2716   NO. of rules of class1: 409
+NO. of all rules: 73640  Size of classifier(MATCH): 8  Size of CBA: 0
+Accuracy_CBA 2:92.85714285714286   Accuracy_MATCH ( topk40)2:92.85714285714286
+ NO. of patterns of class0: 4401   NO. of rules of class0: 73199
+ NO. of patterns of class1: 2456   NO. of rules of class1: 531
+NO. of all rules: 73730  Size of classifier(MATCH): 11  Size of CBA: 0
+Accuracy_CBA 3:100.0   Accuracy_MATCH ( topk40)3:100.0
+ NO. of patterns of class0: 4425   NO. of rules of class0: 69989
+ NO. of patterns of class1: 2763   NO. of rules of class1: 512
+NO. of all rules: 70501  Size of classifier(MATCH): 10  Size of CBA: 0
+Accuracy_CBA 4:92.85714285714286   Accuracy_MATCH ( topk40)4:100.0
+ NO. of patterns of class0: 4389   NO. of rules of class0: 68755
+ NO. of patterns of class1: 1833   NO. of rules of class1: 376
+NO. of all rules: 69131  Size of classifier(MATCH): 8  Size of CBA: 0
+Accuracy_CBA 5:100.0   Accuracy_MATCH ( topk40)5:100.0
+ NO. of patterns of class0: 4409   NO. of rules of class0: 69576
+ NO. of patterns of class1: 2739   NO. of rules of class1: 551
+NO. of all rules: 70127  Size of classifier(MATCH): 7  Size of CBA: 0
+Accuracy_CBA 6:92.85714285714286   Accuracy_MATCH ( topk40)6:92.85714285714286
+ NO. of patterns of class0: 4385   NO. of rules of class0: 66015
+ NO. of patterns of class1: 2751   NO. of rules of class1: 512
+NO. of all rules: 66527  Size of classifier(MATCH): 12  Size of CBA: 0
+Accuracy_CBA 7:85.71428571428571   Accuracy_MATCH ( topk40)7:92.85714285714286
+ NO. of patterns of class0: 4389   NO. of rules of class0: 70654
+ NO. of patterns of class1: 2759   NO. of rules of class1: 604
+NO. of all rules: 71258  Size of classifier(MATCH): 9  Size of CBA: 0
+Accuracy_CBA 8:92.85714285714286   Accuracy_MATCH ( topk40)8:92.85714285714286
+ NO. of patterns of class0: 4301   NO. of rules of class0: 71994
+ NO. of patterns of class1: 2724   NO. of rules of class1: 584
+NO. of all rules: 72578  Size of classifier(MATCH): 10  Size of CBA: 0
+Accuracy_CBA 9:90.9090909090909   Accuracy_MATCH ( topk40)9:95.45454545454545
+Average accuracy of 10 fold cross validation(HAR):94.80519480519482%
+Average accuracy of 10 fold cross validation(MATCH):96.6883116883117%
+Average number of frequent pattern:7023.3
+Average Number of rules:71063.6    Average size of Classifiers:9.7
+Runtime:9.139s   or  0m 9s 139 ms
+-------------------------------- end ------------------------------------
+
+The size of class 1 is: 106
+The size of class 2 is: 42
+The number of items: 94
+Average length of a sequence: 61.675674
+--Running both SCII_MATCH and SCII_CBA method--
+The number of all items: 94
+The number of data objects: 148
+Interestingness threshold of class1: 0.02      Frequency threshold1: 0.05
+Interestingness threshold of class2: 0.02      Frequency threshold2: 0.05
+topk for match: 40   Interesting itemset size:1~4    Confidence threshold:0.5
+ NO. of patterns of class0: 4413   NO. of rules of class0: 992660
+ NO. of patterns of class1: 2763   NO. of rules of class1: 4175
+NO. of all rules: 996835  Size of classifier(MATCH): 16  Size of CBA: 0
+Accuracy_CBA 0:100.0   Accuracy_MATCH ( topk40)0:100.0
+The size of class 1 is: 106
+The size of class 2 is: 42
+The number of items: 94
+Average length of a sequence: 61.675674
+--Running both SCII_MATCH and SCII_CBA method--
+The number of all items: 94
+The number of data objects: 148
+Interestingness threshold of class1: 0.02      Frequency threshold1: 0.05
+Interestingness threshold of class2: 0.02      Frequency threshold2: 0.05
+topk for match: 40   Interesting itemset size:1~40    Confidence threshold:0.5
+The size of class 1 is: 106
+The size of class 2 is: 42
+The size of class 3 is: 8
+The size of class 4 is: 675
+The size of class 5 is: 132
+The size of class 6 is: 57
+The size of class 7 is: 23
+The size of class 8 is: 105
+The size of class 9 is: 332
+The size of class 10 is: 76
+The size of class 11 is: 30
+The size of class 12 is: 245
+The size of class 13 is: 24
+The size of class 14 is: 55
+The size of class 15 is: 60
+The size of class 16 is: 116
+The size of class 17 is: 172
+The size of class 18 is: 29
+The size of class 19 is: 101
+The size of class 20 is: 52
+The size of class 21 is: 22
+The size of class 22 is: 23
+The size of class 23 is: 61
+The size of class 24 is: 24
+The size of class 25 is: 219
+The size of class 26 is: 145
+The size of class 27 is: 21
+The size of class 28 is: 28
+The size of class 29 is: 101
+The size of class 30 is: 33
+The size of class 31 is: 25
+The size of class 32 is: 50
+The size of class 33 is: 23
+The size of class 34 is: 22
+The size of class 35 is: 43
+The size of class 36 is: 25
+The size of class 37 is: 51
+The size of class 38 is: 29
+The size of class 39 is: 25
+The size of class 40 is: 54
+The number of items: 94
+Average length of a sequence: 43.666283
+--Running both SCII_MATCH and SCII_CBA method--
+The number of all items: 94
+The number of data objects: 3464
+Interestingness threshold of class1: 0.02      Frequency threshold1: 0.05
+Interestingness threshold of class2: 0.02      Frequency threshold2: 0.05
+topk for match: 40   Interesting itemset size:1~40    Confidence threshold:0.5
+ERROR: the args[1]!
+ERROR: the args[1]!
+The size of class 1 is: 106
+The size of class 2 is: 42
+The size of class 3 is: 8
+The size of class 4 is: 675
+The size of class 5 is: 132
+The size of class 6 is: 57
+The size of class 7 is: 23
+The size of class 8 is: 105
+The size of class 9 is: 332
+The size of class 10 is: 76
+The size of class 11 is: 30
+The size of class 12 is: 245
+The size of class 13 is: 24
+The size of class 14 is: 55
+The size of class 15 is: 60
+The size of class 16 is: 116
+The size of class 17 is: 172
+The size of class 18 is: 29
+The size of class 19 is: 101
+The size of class 20 is: 52
+The size of class 21 is: 22
+The size of class 22 is: 23
+The size of class 23 is: 61
+The size of class 24 is: 24
+The size of class 25 is: 219
+The size of class 26 is: 145
+The size of class 27 is: 21
+The size of class 28 is: 28
+The size of class 29 is: 101
+The size of class 30 is: 33
+The size of class 31 is: 25
+The size of class 32 is: 50
+The size of class 33 is: 23
+The size of class 34 is: 22
+The size of class 35 is: 43
+The size of class 36 is: 25
+The size of class 37 is: 51
+The size of class 38 is: 29
+The size of class 39 is: 25
+The size of class 40 is: 54
+The number of items: 94
+Average length of a sequence: 43.666283
+--Running both SCII_MATCH and SCII_CBA method--
+The number of all items: 94
+The number of data objects: 3464
+Interestingness threshold of class1: 0.02      Frequency threshold1: 0.05
+Interestingness threshold of class2: 0.02      Frequency threshold2: 0.05
+topk for match: 100   Interesting itemset size:1~40    Confidence threshold:0.5
+ERROR: the args[1]!
+ERROR: the args[1]!
+The size of class 1 is: 106
+The size of class 2 is: 42
+The size of class 3 is: 8
+The size of class 4 is: 675
+The size of class 5 is: 132
+The size of class 6 is: 57
+The size of class 7 is: 23
+The size of class 8 is: 105
+The size of class 9 is: 332
+The size of class 10 is: 76
+The size of class 11 is: 30
+The size of class 12 is: 245
+The size of class 13 is: 24
+The size of class 14 is: 55
+The size of class 15 is: 60
+The size of class 16 is: 116
+The size of class 17 is: 172
+The size of class 18 is: 29
+The size of class 19 is: 101
+The size of class 20 is: 52
+The size of class 21 is: 22
+The size of class 22 is: 23
+The size of class 23 is: 61
+The size of class 24 is: 24
+The size of class 25 is: 219
+The size of class 26 is: 145
+The size of class 27 is: 21
+The size of class 28 is: 28
+The size of class 29 is: 101
+The size of class 30 is: 33
+The size of class 31 is: 25
+The size of class 32 is: 50
+The size of class 33 is: 23
+The size of class 34 is: 22
+The size of class 35 is: 43
+The size of class 36 is: 25
+The size of class 37 is: 51
+The size of class 38 is: 29
+The size of class 39 is: 25
+The size of class 40 is: 54
+The number of items: 94
+Average length of a sequence: 43.666283
+--Running both SCII_MATCH and SCII_CBA method--
+The number of all items: 94
+The number of data objects: 3464
+Interestingness threshold of class1: 0.02      Frequency threshold1: 0.05
+Interestingness threshold of class2: 0.02      Frequency threshold2: 0.05
+topk for match: 100   Interesting itemset size:1~40    Confidence threshold:0.5
+ERROR: the args[1]!
+ERROR: the args[1]!
+The size of class 1 is: 106
+The size of class 2 is: 42
+The size of class 3 is: 8
+The size of class 4 is: 675
+The size of class 5 is: 132
+The size of class 6 is: 57
+The size of class 7 is: 23
+The size of class 8 is: 105
+The size of class 9 is: 332
+The size of class 10 is: 76
+The size of class 11 is: 30
+The size of class 12 is: 245
+The size of class 13 is: 24
+The size of class 14 is: 55
+The size of class 15 is: 60
+The size of class 16 is: 116
+The size of class 17 is: 172
+The size of class 18 is: 29
+The size of class 19 is: 101
+The size of class 20 is: 52
+The size of class 21 is: 22
+The size of class 22 is: 23
+The size of class 23 is: 61
+The size of class 24 is: 24
+The size of class 25 is: 219
+The size of class 26 is: 145
+The size of class 27 is: 21
+The size of class 28 is: 28
+The size of class 29 is: 101
+The size of class 30 is: 33
+The size of class 31 is: 25
+The size of class 32 is: 50
+The size of class 33 is: 23
+The size of class 34 is: 22
+The size of class 35 is: 43
+The size of class 36 is: 25
+The size of class 37 is: 51
+The size of class 38 is: 29
+The size of class 39 is: 25
+The size of class 40 is: 54
+The number of items: 94
+Average length of a sequence: 43.666283
+The number of data objects: 3464
+Interestingness threshold of class1: 0.02The size of class 1 is: 106
+The size of class 2 is: 42
+The size of class 3 is: 8
+The size of class 4 is: 675
+The size of class 5 is: 132
+The size of class 6 is: 57
+The size of class 7 is: 23
+The size of class 8 is: 105
+The size of class 9 is: 332
+The size of class 10 is: 76
+The size of class 11 is: 30
+The size of class 12 is: 245
+The size of class 13 is: 24
+The size of class 14 is: 55
+The size of class 15 is: 60
+The size of class 16 is: 116
+The size of class 17 is: 172
+The size of class 18 is: 29
+The size of class 19 is: 101
+The size of class 20 is: 52
+The size of class 21 is: 22
+The size of class 22 is: 23
+The size of class 23 is: 61
+The size of class 24 is: 24
+The size of class 25 is: 219
+The size of class 26 is: 145
+The size of class 27 is: 21
+The size of class 28 is: 28
+The size of class 29 is: 101
+The size of class 30 is: 33
+The size of class 31 is: 25
+The size of class 32 is: 50
+The size of class 33 is: 23
+The size of class 34 is: 22
+The size of class 35 is: 43
+The size of class 36 is: 25
+The size of class 37 is: 51
+The size of class 38 is: 29
+The size of class 39 is: 25
+The size of class 40 is: 54
+The number of items: 94
+Average length of a sequence: 43.666283
+--Running both SCII_MATCH and SCII_CBA method--
+The number of all items: 94
+The number of data objects: 3464
+Interestingness threshold of class1: 0.02      Frequency threshold1: 0.05
+Interestingness threshold of class2: 0.02      Frequency threshold2: 0.05
+topk for match: 100   Interesting itemset size:1~40    Confidence threshold:0.05
+ERROR: the args[1]!
+ERROR: the args[1]!
+The size of class 1 is: 106
+The size of class 2 is: 42
+The size of class 3 is: 8
+The size of class 4 is: 675
+The size of class 5 is: 132
+The size of class 6 is: 57
+The size of class 7 is: 23
+The size of class 8 is: 105
+The size of class 9 is: 332
+The size of class 10 is: 76
+The size of class 11 is: 30
+The size of class 12 is: 245
+The size of class 13 is: 24
+The size of class 14 is: 55
+The size of class 15 is: 60
+The size of class 16 is: 116
+The size of class 17 is: 172
+The size of class 18 is: 29
+The size of class 19 is: 101
+The size of class 20 is: 52
+The size of class 21 is: 22
+The size of class 22 is: 23
+The size of class 23 is: 61
+The size of class 24 is: 24
+The size of class 25 is: 219
+The size of class 26 is: 145
+The size of class 27 is: 21
+The size of class 28 is: 28
+The size of class 29 is: 101
+The size of class 30 is: 33
+The size of class 31 is: 25
+The size of class 32 is: 50
+The size of class 33 is: 23
+The size of class 34 is: 22
+The size of class 35 is: 43
+The size of class 36 is: 25
+The size of class 37 is: 51
+The size of class 38 is: 29
+The size of class 39 is: 25
+The size of class 40 is: 54
+The number of items: 94
+Average length of a sequence: 43.666283
+--Running both SCII_MATCH and SCII_CBA method--
+The number of all items: 94
+The number of data objects: 3464
+Interestingness threshold of class1: 0.02      Frequency threshold1: 0.05
+Interestingness threshold of class2: 0.02      Frequency threshold2: 0.05
+topk for match: 100   Interesting itemset size:1~40    Confidence threshold:0.05
+ERROR: the args[1]!
+ERROR: the args[1]!
+The size of class 1 is: 106
+The size of class 2 is: 42
+The size of class 3 is: 8
+The size of class 4 is: 675
+The size of class 5 is: 132
+The size of class 6 is: 57
+The size of class 7 is: 23
+The size of class 8 is: 105
+The size of class 9 is: 332
+The size of class 10 is: 76
+The size of class 11 is: 30
+The size of class 12 is: 245
+The size of class 13 is: 24
+The size of class 14 is: 55
+The size of class 15 is: 60
+The size of class 16 is: 116
+The size of class 17 is: 172
+The size of class 18 is: 29
+The size of class 19 is: 101
+The size of class 20 is: 52
+The size of class 21 is: 22
+The size of class 22 is: 23
+The size of class 23 is: 61
+The size of class 24 is: 24
+The size of class 25 is: 219
+The size of class 26 is: 145
+The size of class 27 is: 21
+The size of class 28 is: 28
+The size of class 29 is: 101
+The size of class 30 is: 33
+The size of class 31 is: 25
+The size of class 32 is: 50
+The size of class 33 is: 23
+The size of class 34 is: 22
+The size of class 35 is: 43
+The size of class 36 is: 25
+The size of class 37 is: 51
+The size of class 38 is: 29
+The size of class 39 is: 25
+The size of class 40 is: 54
+The number of items: 94
+Average length of a sequence: 43.666283
+--Running both SCII_MATCH and SCII_CBA method--
+The number of all items: 94
+The number of data objects: 3464
+Interestingness threshold of class1: 0.02      Frequency threshold1: 0.05
+Interestingness threshold of class2: 0.02      Frequency threshold2: 0.05
+topk for match: 100   Interesting itemset size:1~40    Confidence threshold:0.05
+ERROR: the args[1]!
+ERROR: the args[1]!
+The size of class 1 is: 106
+The size of class 2 is: 42
+The size of class 3 is: 8
+The size of class 4 is: 675
+The size of class 5 is: 132
+The size of class 6 is: 57
+The size of class 7 is: 23
+The size of class 8 is: 105
+The size of class 9 is: 332
+The size of class 10 is: 76
+The size of class 11 is: 30
+The size of class 12 is: 245
+The size of class 13 is: 24
+The size of class 14 is: 55
+The size of class 15 is: 60
+The size of class 16 is: 116
+The size of class 17 is: 172
+The size of class 18 is: 29
+The size of class 19 is: 101
+The size of class 20 is: 52
+The size of class 21 is: 22
+The size of class 22 is: 23
+The size of class 23 is: 61
+The size of class 24 is: 24
+The size of class 25 is: 219
+The size of class 26 is: 145
+The size of class 27 is: 21
+The size of class 28 is: 28
+The size of class 29 is: 101
+The size of class 30 is: 33
+The size of class 31 is: 25
+The size of class 32 is: 50
+The size of class 33 is: 23
+The size of class 34 is: 22
+The size of class 35 is: 43
+The size of class 36 is: 25
+The size of class 37 is: 51
+The size of class 38 is: 29
+The size of class 39 is: 25
+The size of class 40 is: 54
+The number of items: 94
+Average length of a sequence: 43.666283
+--Running both SCII_MATCH and SCII_CBA method--
+The number of all items: 94
+The number of data objects: 3464
+Interestingness threshold of class1: 0.02      Frequency threshold1: 0.05
+Interestingness threshold of class2: 0.02      Frequency threshold2: 0.05
+topk for match: 100   Interesting itemset size:1~40    Confidence threshold:0.05
+ERROR: the args[1]!
+ERROR: the args[1]!
+The size of class 1 is: 106
+The size of class 2 is: 42
+The size of class 3 is: 8
+The size of class 4 is: 675
+The size of class 5 is: 132
+The size of class 6 is: 57
+The size of class 7 is: 23
+The size of class 8 is: 105
+The size of class 9 is: 332
+The size of class 10 is: 76
+The size of class 11 is: 30
+The size of class 12 is: 245
+The size of class 13 is: 24
+The size of class 14 is: 55
+The size of class 15 is: 60
+The size of class 16 is: 116
+The size of class 17 is: 172
+The size of class 18 is: 29
+The size of class 19 is: 101
+The size of class 20 is: 52
+The size of class 21 is: 22
+The size of class 22 is: 23
+The size of class 23 is: 61
+The size of class 24 is: 24
+The size of class 25 is: 219
+The size of class 26 is: 145
+The size of class 27 is: 21
+The size of class 28 is: 28
+The size of class 29 is: 101
+The size of class 30 is: 33
+The size of class 31 is: 25
+The size of class 32 is: 50
+The size of class 33 is: 23
+The size of class 34 is: 22
+The size of class 35 is: 43
+The size of class 36 is: 25
+The size of class 37 is: 51
+The size of class 38 is: 29
+The size of class 39 is: 25
+The size of class 40 is: 54
+The number of items: 94
+Average length of a sequence: 43.666283
+--Running both SCII_MATCH and SCII_CBA method--
+The number of all items: 94
+The number of data objects: 3464
+Interestingness threshold of class1: 0.02      Frequency threshold1: 0.05
+Interestingness threshold of class2: 0.02      Frequency threshold2: 0.05
+topk for match: 100   Interesting itemset size:1~40    Confidence threshold:0.05
+ERROR: the args[1]!
+ERROR: the args[1]!
+The size of class 1 is: 106
+The size of class 2 is: 42
+The size of class 3 is: 8
+The size of class 4 is: 675
+The size of class 5 is: 132
+The size of class 6 is: 57
+The size of class 7 is: 23
+The size of class 8 is: 105
+The size of class 9 is: 332
+The size of class 10 is: 76
+The size of class 11 is: 30
+The size of class 12 is: 245
+The size of class 13 is: 24
+The size of class 14 is: 55
+The size of class 15 is: 60
+The size of class 16 is: 116
+The size of class 17 is: 172
+The size of class 18 is: 29
+The size of class 19 is: 101
+The size of class 20 is: 52
+The size of class 21 is: 22
+The size of class 22 is: 23
+The size of class 23 is: 61
+The size of class 24 is: 24
+The size of class 25 is: 219
+The size of class 26 is: 145
+The size of class 27 is: 21
+The size of class 28 is: 28
+The size of class 29 is: 101
+The size of class 30 is: 33
+The size of class 31 is: 25
+The size of class 32 is: 50
+The size of class 33 is: 23
+The size of class 34 is: 22
+The size of class 35 is: 43
+The size of class 36 is: 25
+The size of class 37 is: 51
+The size of class 38 is: 29
+The size of class 39 is: 25
+The size of class 40 is: 54
+The number of items: 94
+Average length of a sequence: 43.666283
+--Running both SCII_MATCH and SCII_CBA method--
+The number of all items: 94
+The number of data objects: 3464
+Interestingness threshold of class1: 0.02      Frequency threshold1: 0.05
+Interestingness threshold of class2: 0.02      Frequency threshold2: 0.05
+topk for match: 100   Interesting itemset size:1~40    Confidence threshold:0.05
+ERROR: the args[1]!
+ERROR: the args[1]!
+The size of class 1 is: 106
+The size of class 2 is: 42
+The size of class 3 is: 8
+The size of class 4 is: 675
+The size of class 5 is: 132
+The size of class 6 is: 57
+The size of class 7 is: 23
+The size of class 8 is: 105
+The size of class 9 is: 332
+The size of class 10 is: 76
+The size of class 11 is: 30
+The size of class 12 is: 245
+The size of class 13 is: 24
+The size of class 14 is: 55
+The size of class 15 is: 60
+The size of class 16 is: 116
+The size of class 17 is: 172
+The size of class 18 is: 29
+The size of class 19 is: 101
+The size of class 20 is: 52
+The size of class 21 is: 22
+The size of class 22 is: 23
+The size of class 23 is: 61
+The size of class 24 is: 24
+The size of class 25 is: 219
+The size of class 26 is: 145
+The size of class 27 is: 21
+The size of class 28 is: 28
+The size of class 29 is: 101
+The size of class 30 is: 33
+The size of class 31 is: 25
+The size of class 32 is: 50
+The size of class 33 is: 23
+The size of class 34 is: 22
+The size of class 35 is: 43
+The size of class 36 is: 25
+The size of class 37 is: 51
+The size of class 38 is: 29
+The size of class 39 is: 25
+The size of class 40 is: 54
+The number of items: 94
+Average length of a sequence: 43.666283
+--Running both SCII_MATCH and SCII_CBA method--
+The number of all items: 94
+The number of data objects: 3464
+Interestingness threshold of class1: 0.02      Frequency threshold1: 0.05
+Interestingness threshold of class2: 0.02      Frequency threshold2: 0.05
+topk for match: 100   Interesting itemset size:1~40    Confidence threshold:0.05
+ERROR: the args[1]!
+ERROR: the args[1]!
+The size of class 1 is: 106
+The size of class 2 is: 42
+The size of class 3 is: 8
+The size of class 4 is: 675
+The size of class 5 is: 132
+The size of class 6 is: 57
+The size of class 7 is: 23
+The size of class 8 is: 105
+The size of class 9 is: 332
+The size of class 10 is: 76
+The size of class 11 is: 30
+The size of class 12 is: 245
+The size of class 13 is: 24
+The size of class 14 is: 55
+The size of class 15 is: 60
+The size of class 16 is: 116
+The size of class 17 is: 172
+The size of class 18 is: 29
+The size of class 19 is: 101
+The size of class 20 is: 52
+The size of class 21 is: 22
+The size of class 22 is: 23
+The size of class 23 is: 61
+The size of class 24 is: 24
+The size of class 25 is: 219
+The size of class 26 is: 145
+The size of class 27 is: 21
+The size of class 28 is: 28
+The size of class 29 is: 101
+The size of class 30 is: 33
+The size of class 31 is: 25
+The size of class 32 is: 50
+The size of class 33 is: 23
+The size of class 34 is: 22
+The size of class 35 is: 43
+The size of class 36 is: 25
+The size of class 37 is: 51
+The size of class 38 is: 29
+The size of class 39 is: 25
+The size of class 40 is: 54
+The number of items: 94
+Average length of a sequence: 43.666283
+--Running both SCII_MATCH and SCII_CBA method--
+The number of all items: 94
+The number of data objects: 3464
+Interestingness threshold of class1: 0.02      Frequency threshold1: 0.05
+Interestingness threshold of class2: 0.02      Frequency threshold2: 0.05
+topk for match: 100   Interesting itemset size:1~40    Confidence threshold:0.05
+ERROR: the args[1]!
+ERROR: the args[1]!
+The size of class 1 is: 106
+The size of class 2 is: 42
+The size of class 3 is: 8
+The size of class 4 is: 675
+The size of class 5 is: 132
+The size of class 6 is: 57
+The size of class 7 is: 23
+The size of class 8 is: 105
+The size of class 9 is: 332
+The size of class 10 is: 76
+The size of class 11 is: 30
+The size of class 12 is: 245
+The size of class 13 is: 24
+The size of class 14 is: 55
+The size of class 15 is: 60
+The size of class 16 is: 116
+The size of class 17 is: 172
+The size of class 18 is: 29
+The size of class 19 is: 101
+The size of class 20 is: 52
+The size of class 21 is: 22
+The size of class 22 is: 23
+The size of class 23 is: 61
+The size of class 24 is: 24
+The size of class 25 is: 219
+The size of class 26 is: 145
+The size of class 27 is: 21
+The size of class 28 is: 28
+The size of class 29 is: 101
+The size of class 30 is: 33
+The size of class 31 is: 25
+The size of class 32 is: 50
+The size of class 33 is: 23
+The size of class 34 is: 22
+The size of class 35 is: 43
+The size of class 36 is: 25
+The size of class 37 is: 51
+The size of class 38 is: 29
+The size of class 39 is: 25
+The size of class 40 is: 54
+The number of items: 94
+Average length of a sequence: 43.666283
+--Running both SCII_MATCH and SCII_CBA method--
+The number of all items: 94
+The number of data objects: 3464
+Interestingness threshold of class1: 0.02      Frequency threshold1: 0.05
+Interestingness threshold of class2: 0.02      Frequency threshold2: 0.05
+topk for match: 100   Interesting itemset size:1~40    Confidence threshold:0.05
+ERROR: the args[1]!
+ERROR: the args[1]!
+The size of class 1 is: 106
+The size of class 2 is: 42
+The size of class 3 is: 8
+The size of class 4 is: 675
+The size of class 5 is: 132
+The size of class 6 is: 57
+The size of class 7 is: 23
+The size of class 8 is: 105
+The size of class 9 is: 332
+The size of class 10 is: 76
+The size of class 11 is: 30
+The size of class 12 is: 245
+The size of class 13 is: 24
+The size of class 14 is: 55
+The size of class 15 is: 60
+The size of class 16 is: 116
+The size of class 17 is: 172
+The size of class 18 is: 29
+The size of class 19 is: 101
+The size of class 20 is: 52
+The size of class 21 is: 22
+The size of class 22 is: 23
+The size of class 23 is: 61
+The size of class 24 is: 24
+The size of class 25 is: 219
+The size of class 26 is: 145
+The size of class 27 is: 21
+The size of class 28 is: 28
+The size of class 29 is: 101
+The size of class 30 is: 33
+The size of class 31 is: 25
+The size of class 32 is: 50
+The size of class 33 is: 23
+The size of class 34 is: 22
+The size of class 35 is: 43
+The size of class 36 is: 25
+The size of class 37 is: 51
+The size of class 38 is: 29
+The size of class 39 is: 25
+The size of class 40 is: 54
+The number of items: 94
+Average length of a sequence: 43.666283
+--Running both SCII_MATCH and SCII_CBA method--
+The number of all items: 94
+The number of data objects: 3464
+Interestingness threshold of class1: 0.02      Frequency threshold1: 0.05
+Interestingness threshold of class2: 0.02      Frequency threshold2: 0.05
+topk for match: 100   Interesting itemset size:1~40    Confidence threshold:0.05
+ERROR: the args[1]!
+ERROR: the args[1]!
+The size of class 1 is: 106
+The size of class 2 is: 42
+The size of class 3 is: 8
+The size of class 4 is: 675
+The size of class 5 is: 132
+The size of class 6 is: 57
+The size of class 7 is: 23
+The size of class 8 is: 105
+The size of class 9 is: 332
+The size of class 10 is: 76
+The size of class 11 is: 30
+The size of class 12 is: 245
+The size of class 13 is: 24
+The size of class 14 is: 55
+The size of class 15 is: 60
+The size of class 16 is: 116
+The size of class 17 is: 172
+The size of class 18 is: 29
+The size of class 19 is: 101
+The size of class 20 is: 52
+The size of class 21 is: 22
+The size of class 22 is: 23
+The size of class 23 is: 61
+The size of class 24 is: 24
+The size of class 25 is: 219
+The size of class 26 is: 145
+The size of class 27 is: 21
+The size of class 28 is: 28
+The size of class 29 is: 101
+The size of class 30 is: 33
+The size of class 31 is: 25
+The size of class 32 is: 50
+The size of class 33 is: 23
+The size of class 34 is: 22
+The size of class 35 is: 43
+The size of class 36 is: 25
+The size of class 37 is: 51
+The size of class 38 is: 29
+The size of class 39 is: 25
+The size of class 40 is: 54
+The number of items: 94
+Average length of a sequence: 43.666283
+--Running both SCII_MATCH and SCII_CBA method--
+The number of all items: 94
+The number of data objects: 3464
+Interestingness threshold of class1: 0.02      Frequency threshold1: 0.05
+Interestingness threshold of class2: 0.02      Frequency threshold2: 0.05
+topk for match: 100   Interesting itemset size:1~40    Confidence threshold:0.05
+ERROR: the args[1]!
+ERROR: the args[1]!
+The size of class 1 is: 2205
+The size of class 2 is: 2097
+The number of items: 95
+Average length of a sequence: 24.0
+The number of data objects: 4302
+Interestingness threshold of class1: 0.02The size of class 1 is: 2205
+The size of class 2 is: 2097
+The number of items: 95
+Average length of a sequence: 24.0
+The number of data objects: 4302
+Interestingness threshold of class1: 0.02The size of class 1 is: 2205
+The size of class 2 is: 2097
+The number of items: 95
+Average length of a sequence: 24.0
+The number of data objects: 4302
+Interestingness threshold of class1: 0.02The size of class 1 is: 2205
+The size of class 2 is: 2097
+The number of items: 95
+Average length of a sequence: 24.0
+The number of data objects: 4302
+Interestingness threshold of class1: 0.02The size of class 1 is: 2205
+The size of class 2 is: 2097
+The number of items: 95
+Average length of a sequence: 24.0
+The number of data objects: 4302
+Interestingness threshold of class1: 0.02The size of class 1 is: 2205
+The size of class 2 is: 2097
+The number of items: 95
+Average length of a sequence: 24.0
+The number of data objects: 4302
+Interestingness threshold of class1: 0.02The size of class 1 is: 2205
+The size of class 2 is: 2097
+The number of items: 95
+Average length of a sequence: 24.0
+The number of data objects: 4302
+Interestingness threshold of class1: 0.02The size of class 1 is: 2205
+The size of class 2 is: 2097
+The number of items: 95
+Average length of a sequence: 24.0
+The number of data objects: 4302
+Interestingness threshold of class1: 0.02The size of class 1 is: 2205
+The size of class 2 is: 2097
+The number of items: 95
+Average length of a sequence: 24.0
+The number of data objects: 4302
+Interestingness threshold of class1: 0.02The size of class 1 is: 2205
+The size of class 2 is: 2097
+The number of items: 95
+Average length of a sequence: 24.0
+The number of data objects: 4302
+Interestingness threshold of class1: 0.02The size of class 1 is: 2205
+The size of class 2 is: 2097
+The number of items: 95
+Average length of a sequence: 24.0
+The number of data objects: 4302
+Interestingness threshold of class1: 0.02The size of class 1 is: 2205
+The size of class 2 is: 2097
+The number of items: 95
+Average length of a sequence: 24.0
+The number of data objects: 4302
+Interestingness threshold of class1: 0.02The size of class 1 is: 2205
+The size of class 2 is: 2097
+The number of items: 95
+Average length of a sequence: 24.0
+The number of data objects: 4302
+Interestingness threshold of class1: 0.02The size of class 1 is: 2205
+The size of class 2 is: 2097
+The number of items: 95
+Average length of a sequence: 24.0
+The number of data objects: 4302
+Interestingness threshold of class1: 0.02The size of class 1 is: 2205
+The size of class 2 is: 2097
+The number of items: 95
+Average length of a sequence: 24.0
+The number of data objects: 4302
+Interestingness threshold of class1: 0.02The size of class 1 is: 2205
+The size of class 2 is: 2097
+The number of items: 95
+Average length of a sequence: 24.0
+The number of data objects: 4302
+Interestingness threshold of class1: 0.02The size of class 1 is: 2205
+The size of class 2 is: 2097
+The number of items: 95
+Average length of a sequence: 24.0
+The number of data objects: 4302
+Interestingness threshold of class1: 0.02The size of class 1 is: 2205
+The size of class 2 is: 2097
+The number of items: 95
+Average length of a sequence: 24.0
+The number of data objects: 4302
+Interestingness threshold of class1: 0.02The size of class 1 is: 2205
+The size of class 2 is: 2097
+The number of items: 95
+Average length of a sequence: 24.0
+The number of data objects: 4302
+Interestingness threshold of class1: 0.02The size of class 1 is: 2205
+The size of class 2 is: 2097
+The number of items: 95
+Average length of a sequence: 24.0
+The number of data objects: 4302
+Interestingness threshold of class1: 0.02The size of class 1 is: 2205
+The size of class 2 is: 2097
+The number of items: 95
+Average length of a sequence: 24.0
+The number of data objects: 4302
+Interestingness threshold of class1: 0.02The size of class 1 is: 2205
+The size of class 2 is: 2097
+The number of items: 95
+Average length of a sequence: 24.0
+The number of data objects: 4302
+Interestingness threshold of class1: 0.02The size of class 1 is: 2205
+The size of class 2 is: 2097
+The number of items: 95
+Average length of a sequence: 24.0
+The number of data objects: 4302
+Interestingness threshold of class1: 0.02The size of class 1 is: 2205
+The size of class 2 is: 2097
+The number of items: 95
+Average length of a sequence: 24.0
+--Running both SCII_MATCH and SCII_CBA method--
+The number of all items: 95
+The number of data objects: 4302
+Interestingness threshold of class1: 0.02      Frequency threshold1: 0.05
+Interestingness threshold of class2: 0.02      Frequency threshold2: 0.05
+topk for match: 11   Interesting itemset size:1~5    Confidence threshold:0.5
+ NO. of patterns of class0: 424   NO. of rules of class0: 313
+ NO. of patterns of class1: 514   NO. of rules of class1: 856
+NO. of all rules: 1169  Size of classifier(MATCH): 253  Size of CBA: 0
+Accuracy_CBA 0:79.76744186046511   Accuracy_MATCH ( topk11)0:82.55813953488372
+ NO. of patterns of class0: 431   NO. of rules of class0: 323
+ NO. of patterns of class1: 513   NO. of rules of class1: 852
+NO. of all rules: 1175  Size of classifier(MATCH): 253  Size of CBA: 0
+Accuracy_CBA 1:82.79069767441861   Accuracy_MATCH ( topk11)1:83.02325581395348
+ NO. of patterns of class0: 427   NO. of rules of class0: 308
+ NO. of patterns of class1: 513   NO. of rules of class1: 877
+NO. of all rules: 1185  Size of classifier(MATCH): 252  Size of CBA: 0
+Accuracy_CBA 2:80.93023255813954   Accuracy_MATCH ( topk11)2:82.55813953488372
+ NO. of patterns of class0: 436   NO. of rules of class0: 315
+ NO. of patterns of class1: 512   NO. of rules of class1: 871
+NO. of all rules: 1186  Size of classifier(MATCH): 247  Size of CBA: 0
+Accuracy_CBA 3:81.62790697674419   Accuracy_MATCH ( topk11)3:80.0
+ NO. of patterns of class0: 421   NO. of rules of class0: 312
+ NO. of patterns of class1: 515   NO. of rules of class1: 883
+NO. of all rules: 1195  Size of classifier(MATCH): 262  Size of CBA: 0
+Accuracy_CBA 4:78.83720930232558   Accuracy_MATCH ( topk11)4:80.69767441860465
+ NO. of patterns of class0: 426   NO. of rules of class0: 317
+ NO. of patterns of class1: 516   NO. of rules of class1: 869
+NO. of all rules: 1186  Size of classifier(MATCH): 255  Size of CBA: 0
+Accuracy_CBA 5:82.55813953488372   Accuracy_MATCH ( topk11)5:82.32558139534883
+ NO. of patterns of class0: 424   NO. of rules of class0: 319
+ NO. of patterns of class1: 507   NO. of rules of class1: 877
+NO. of all rules: 1196  Size of classifier(MATCH): 246  Size of CBA: 0
+Accuracy_CBA 6:80.0   Accuracy_MATCH ( topk11)6:80.0
+ NO. of patterns of class0: 424   NO. of rules of class0: 309
+ NO. of patterns of class1: 511   NO. of rules of class1: 861
+NO. of all rules: 1170  Size of classifier(MATCH): 252  Size of CBA: 0
+Accuracy_CBA 7:79.06976744186046   Accuracy_MATCH ( topk11)7:82.79069767441861
+ NO. of patterns of class0: 428   NO. of rules of class0: 316
+ NO. of patterns of class1: 516   NO. of rules of class1: 856
+NO. of all rules: 1172  Size of classifier(MATCH): 259  Size of CBA: 0
+Accuracy_CBA 8:81.16279069767442   Accuracy_MATCH ( topk11)8:83.02325581395348
+ NO. of patterns of class0: 429   NO. of rules of class0: 304
+ NO. of patterns of class1: 510   NO. of rules of class1: 871
+NO. of all rules: 1175  Size of classifier(MATCH): 253  Size of CBA: 0
+Accuracy_CBA 9:82.63888888888889   Accuracy_MATCH ( topk11)9:81.94444444444444
+Average accuracy of 10 fold cross validation(HAR):80.93830749354004%
+Average accuracy of 10 fold cross validation(MATCH):81.89211886304909%
+Average number of frequent pattern:939.7
+Average Number of rules:1180.9    Average size of Classifiers:253.2
+Runtime:2.835s   or  0m 2s 835 ms
+-------------------------------- end ------------------------------------
+
+The size of class 1 is: 2205
+The size of class 2 is: 2097
+The number of items: 95
+Average length of a sequence: 24.0
+--Running both SCII_MATCH and SCII_CBA method--
+The number of all items: 95
+The number of data objects: 4302
+Interestingness threshold of class1: 0.02      Frequency threshold1: 0.05
+Interestingness threshold of class2: 0.02      Frequency threshold2: 0.05
+topk for match: 11   Interesting itemset size:1~5    Confidence threshold:0.5
+ NO. of patterns of class0: 424   NO. of rules of class0: 313
+ NO. of patterns of class1: 514   NO. of rules of class1: 856
+NO. of all rules: 1169  Size of classifier(MATCH): 253  Size of CBA: 0
+Accuracy_CBA 0:79.76744186046511   Accuracy_MATCH ( topk11)0:82.55813953488372
+ NO. of patterns of class0: 431   NO. of rules of class0: 323
+ NO. of patterns of class1: 513   NO. of rules of class1: 852
+NO. of all rules: 1175  Size of classifier(MATCH): 253  Size of CBA: 0
+Accuracy_CBA 1:82.79069767441861   Accuracy_MATCH ( topk11)1:83.02325581395348
+ NO. of patterns of class0: 427   NO. of rules of class0: 308
+ NO. of patterns of class1: 513   NO. of rules of class1: 877
+NO. of all rules: 1185  Size of classifier(MATCH): 252  Size of CBA: 0
+Accuracy_CBA 2:80.93023255813954   Accuracy_MATCH ( topk11)2:82.55813953488372
+ NO. of patterns of class0: 436   NO. of rules of class0: 315
+ NO. of patterns of class1: 512   NO. of rules of class1: 871
+NO. of all rules: 1186  Size of classifier(MATCH): 247  Size of CBA: 0
+Accuracy_CBA 3:81.62790697674419   Accuracy_MATCH ( topk11)3:80.0
+ NO. of patterns of class0: 421   NO. of rules of class0: 312
+ NO. of patterns of class1: 515   NO. of rules of class1: 883
+NO. of all rules: 1195  Size of classifier(MATCH): 262  Size of CBA: 0
+Accuracy_CBA 4:78.83720930232558   Accuracy_MATCH ( topk11)4:80.69767441860465
+ NO. of patterns of class0: 426   NO. of rules of class0: 317
+ NO. of patterns of class1: 516   NO. of rules of class1: 869
+NO. of all rules: 1186  Size of classifier(MATCH): 255  Size of CBA: 0
+Accuracy_CBA 5:82.55813953488372   Accuracy_MATCH ( topk11)5:82.32558139534883
+ NO. of patterns of class0: 424   NO. of rules of class0: 319
+ NO. of patterns of class1: 507   NO. of rules of class1: 877
+NO. of all rules: 1196  Size of classifier(MATCH): 246  Size of CBA: 0
+Accuracy_CBA 6:80.0   Accuracy_MATCH ( topk11)6:80.0
+ NO. of patterns of class0: 424   NO. of rules of class0: 309
+ NO. of patterns of class1: 511   NO. of rules of class1: 861
+NO. of all rules: 1170  Size of classifier(MATCH): 252  Size of CBA: 0
+Accuracy_CBA 7:79.06976744186046   Accuracy_MATCH ( topk11)7:82.79069767441861
+ NO. of patterns of class0: 428   NO. of rules of class0: 316
+ NO. of patterns of class1: 516   NO. of rules of class1: 856
+NO. of all rules: 1172  Size of classifier(MATCH): 259  Size of CBA: 0
+Accuracy_CBA 8:81.16279069767442   Accuracy_MATCH ( topk11)8:83.02325581395348
+ NO. of patterns of class0: 429   NO. of rules of class0: 304
+ NO. of patterns of class1: 510   NO. of rules of class1: 871
+NO. of all rules: 1175  Size of classifier(MATCH): 253  Size of CBA: 0
+Accuracy_CBA 9:82.63888888888889   Accuracy_MATCH ( topk11)9:81.94444444444444
+Average accuracy of 10 fold cross validation(HAR):80.93830749354004%
+Average accuracy of 10 fold cross validation(MATCH):81.89211886304909%
+Average number of frequent pattern:939.7
+Average Number of rules:1180.9    Average size of Classifiers:253.2
+Runtime:2.836s   or  0m 2s 836 ms
+-------------------------------- end ------------------------------------
+

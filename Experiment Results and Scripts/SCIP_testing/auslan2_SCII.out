@@ -1,0 +1,20 @@
+The size of class 1 is: 88
+The size of class 2 is: 20
+The size of class 3 is: 50
+The size of class 4 is: 71
+The size of class 5 is: 93
+The size of class 6 is: 80
+The size of class 7 is: 1446
+The size of class 8 is: 20
+The size of class 9 is: 77
+The size of class 10 is: 20
+The number of items: 82
+Average length of a sequence: 77.04886
+--Running both SCII_MATCH and SCII_CBA method--
+The number of all items: 82
+The number of data objects: 1965
+Interestingness threshold of class1: 0.02      Frequency threshold1: 0.05
+Interestingness threshold of class2: 0.02      Frequency threshold2: 0.05
+topk for match: 11   Interesting itemset size:1~3    Confidence threshold:0.05
+ERROR: the args[1]!
+ERROR: the args[1]!
