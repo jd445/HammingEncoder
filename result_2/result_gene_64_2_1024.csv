@@ -3,5 +3,5 @@ RandomForest,1.0,0.0
 SVM,1.0,0.0
 NaiveBayes,1.0,0.0
 KNN,1.0,0.0
-DecisionTree,1.0,0.0
+DecisionTree,0.9999319727891157,0.0001360544217686943
 end2end,1.0,0.0
