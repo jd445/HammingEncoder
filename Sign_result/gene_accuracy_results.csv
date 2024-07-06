@@ -1,0 +1,7 @@
+Classifier,Mean Accuracy,Std Accuracy
+RandomForest,1.0,0.0
+SVM,1.0,0.0
+NaiveBayes,1.0,0.0
+KNN,1.0,0.0
+DecisionTree,0.9993203053717241,0.0008324530108479891
+end2end,1.0,0.0
